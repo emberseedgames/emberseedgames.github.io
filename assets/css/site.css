@@ -104,7 +104,7 @@ html[lang="en"] body { word-break: normal; }
 body.home { overflow: hidden; height: 100vh; }
 body.home .hero { height: 100vh; min-height: 0; }
 body.home .footer { position: fixed; left: 0; right: 0; bottom: 0; border-top: 0; padding: 18px 0; background: linear-gradient(to top, rgba(12,14,17,.85), rgba(12,14,17,0)); z-index: 2; }
-body.home .footer .wrap { justify-content: flex-end; }   /* 왼쪽은 엘리나 자리 */
+body.home .footer .wrap { justify-content: flex-start; max-width: none; padding: 0 20px; }   /* 맨 왼쪽 아래 */
 .hero .char {
   /* 상반신만 크게 = 전신 그림을 2배로 키워 화면 아래로 내린다(머리~허리만 보임) */
   position: absolute; left: -1vw; bottom: -30vh; height: 140vh; width: auto; z-index: 0;   /* 0 = 배경 어둠(::after) 아래 → 같은 톤을 받는다 · 머리 꼭대기 ≈ 화면 14% */
