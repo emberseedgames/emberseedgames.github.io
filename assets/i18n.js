@@ -33,8 +33,8 @@ en: {
 
   // STALVERON
   "game.title": "STALVERON — Emberseed",
-  "game.desc": "STALVERON. You don't walk the labyrinth. You only decide who comes back, and how badly hurt. A spectator dungeon-design game for PC (Steam), 2027.",
-  "game.banner.tag": "You don't walk the labyrinth. You only decide who comes back, and how badly hurt.",
+  "game.desc": "STALVERON. Observe. Plan. Execute. And doubt. A spectator dungeon-design game for PC (Steam), 2027.",
+  "game.banner.tag": "Observe. Plan. Execute. And doubt.",
   "game.story.h2": "Walking cities, a fallen star",
   "game.story.p1": "Two hundred years after the catastrophe, people live aboard giant walking machine-cities, crossing an endless sheet of ice. Stop, and the winter storm behind them swallows the city. At each city's heart is the core of a ‘star’ that fell from the sky. Where its warmth reaches, and where it doesn't, is what divides this world into classes.",
   "game.story.p2": "The twenty-seventh city, District 27, halts before a new star. Inside, they say, is something that could keep the city walking for another hundred years. The expedition goes in. You, in the control room, prepare the inside of the star so they come back alive.",
@@ -134,8 +134,8 @@ ja: {
 
   // STALVERON
   "game.title": "STALVERON — Emberseed",
-  "game.desc": "STALVERON。あなたは迷宮を歩かない。誰がどれだけ傷ついて帰るかを決めるだけだ。観戦型ダンジョン設計ゲーム、PC（Steam）、2027年。",
-  "game.banner.tag": "あなたは迷宮を歩かない。誰がどれだけ傷ついて帰るかを決めるだけだ。",
+  "game.desc": "STALVERON。観測、計画、実行。そして疑え。観戦型ダンジョン設計ゲーム、PC（Steam）、2027年。",
+  "game.banner.tag": "観測、計画、実行。そして疑え。",
   "game.story.h2": "歩く都市、落ちた星",
   "game.story.p1": "大災厄から二百年。人々は脚の付いた巨大な機械都市に乗り、果てしない氷の上を歩き続けています。止まれば、後ろから迫る冬の嵐に呑まれるからです。都市の心臓は空から落ちてきた「星」の核。その温もりが届く場所と届かない場所の差が、この世界の階級そのものです。",
   "game.story.p2": "二十七番目の都市、27区が新しい星の前に止まります。星の中には、都市をあと百年歩かせる何かがあると言われています。中へ入るのは探査隊。そして彼らが無事に帰れるよう星の内側を整えるのが、管制室にいるあなたです。",
@@ -235,8 +235,8 @@ zh: {
 
   // STALVERON
   "game.title": "STALVERON — Emberseed",
-  "game.desc": "STALVERON。你不走迷宫。你只决定谁能回来，伤得多重。观战型地牢设计游戏，PC（Steam），2027 年。",
-  "game.banner.tag": "你不走迷宫。你只决定谁能回来，伤得多重。",
+  "game.desc": "STALVERON。观测、计划、执行。然后，怀疑。观战型地牢设计游戏，PC（Steam），2027 年。",
+  "game.banner.tag": "观测、计划、执行。然后，怀疑。",
   "game.story.h2": "行走的城市，坠落的星",
   "game.story.p1": "大灾变后两百年。人们登上长着腿的巨大机械城市，在无尽的冰原上行走。一旦停下，就会被身后追来的冬季风暴吞没。城市的心脏是一颗从天而降的“星”的核。它的温暖能到达与不能到达的地方之差，就是这个世界的阶级。",
   "game.story.p2": "第二十七座城市，27 区，停在一颗新的星前。据说星的内部有能让城市再走一百年的东西。进去的是探索队；而让他们平安归来、为此整备星内部的，是控制室里的你。",
