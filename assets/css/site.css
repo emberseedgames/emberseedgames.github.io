@@ -187,18 +187,13 @@ body.home .footer .wrap { justify-content: flex-start; max-width: none; padding:
 .figure { border: 1px solid var(--steel-hi); border-radius: 6px; overflow: hidden; background: var(--steel-lo); }
 .figure figcaption { padding: 10px 14px; color: var(--ink-dim); font-size: .85rem; border-top: 1px solid var(--steel-hi); }
 
-/* 인물 */
-.cast { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 24px; }
-.cast .who { min-width: 0; }
-.cast .who { text-align: center; }
-.cast .who .pic {
-  height: 360px; display: grid; place-items: end center; overflow: hidden; border-radius: 6px;
-  background: radial-gradient(ellipse at 50% 85%, rgba(227,155,45,.14), rgba(18,20,24,0) 60%), var(--steel);
-  border: 1px solid var(--steel-hi);
-}
-.cast .who .pic img { height: 100%; width: auto; max-width: 100%; object-fit: contain; }
-.cast .who h3 { margin: 14px 0 2px; }
-.cast .who p { color: var(--ink-dim); font-size: .92rem; margin: 0; }
+/* 인물 = 액자 셋(세로 3:4 · 강철 테 · 상반신이 채움 · 아래 이름판) */
+.cast { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 28px; }
+.cast .frame { position: relative; margin: 0; aspect-ratio: 3 / 4; overflow: hidden; border-radius: 4px; background: #15181d; border: 1px solid var(--steel-hi); box-shadow: inset 0 0 0 6px #0f1114, inset 0 0 0 7px rgba(52,59,70,.6), 0 12px 30px rgba(0,0,0,.45); }
+.cast .frame img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; filter: brightness(.92); }   /* 액자용 파일(frame_*.jpg) = 머리 기준 같은 창으로 미리 잘라 둠 */
+.cast .frame figcaption { position: absolute; left: 0; right: 0; bottom: 0; padding: 48px 20px 18px; background: linear-gradient(to top, rgba(12,14,17,.96) 40%, rgba(12,14,17,0)); }
+.cast .frame figcaption strong { display: block; font-size: 1.35rem; color: var(--ink); margin-bottom: 4px; }
+.cast .frame figcaption span { display: block; color: var(--ink-dim); font-size: .92rem; line-height: 1.5; }
 
 /* 표(사양) */
 .spec { width: 100%; border-collapse: collapse; font-size: .97rem; }
