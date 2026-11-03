@@ -162,6 +162,9 @@ body.home .footer .wrap { justify-content: flex-start; max-width: none; padding:
 .card h3 { color: var(--ink); }
 .card p { color: var(--ink-dim); font-size: .97rem; margin: 0; }
 .card .n { color: var(--amber); font-family: var(--font-en); font-weight: 600; font-size: .8rem; letter-spacing: .15em; margin-bottom: 8px; }
+.card.member .avatar { width: 96px; height: 96px; border-radius: 50%; overflow: hidden; background: radial-gradient(circle at 50% 40%, #2a3038, #1a1e24); border: 1px solid var(--steel-hi); margin-bottom: 16px; display: grid; place-items: center; }
+.card.member .avatar img { width: 100%; height: 100%; object-fit: cover; }
+.card.member .avatar img.mark { width: 42px; height: auto; opacity: .55; }   /* 사진 없는 자리 = 마크 */
 .card .name small { display: block; color: var(--ink-dim); font-family: var(--font-en); font-weight: 500; font-size: .8rem; letter-spacing: .04em; margin-top: 2px; }   /* 이름 = 한글 + 영어 고정(언어와 무관) */
 
 /* 그림 */
