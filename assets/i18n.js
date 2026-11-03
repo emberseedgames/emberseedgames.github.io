@@ -94,7 +94,7 @@ en: {
   "contact.h1": "Contact",
   "contact.tag": "Publishing, collaboration, press and testing inquiries: please email us.",
   "contact.b2c.h3": "Player news is separate", "contact.b2c.p": "If you'd like demo, store and serial news, leave your email on the sign-up page.",
-  "nav.notify": "Get updates",
+  "nav.notify": "Sign up for updates",
   "notify.title": "Sign up for updates — Emberseed", "notify.desc": "Get STALVERON demo, store page and spin-off serial news by email.",
   "notify.h1": "Sign up for updates", "notify.tag": "We'll email you about the demo release, store page opening and spin-off episodes. We don't send often.",
   "contact.channels.h2": "Channels",
