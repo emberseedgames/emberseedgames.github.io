@@ -64,7 +64,7 @@ function renderNotify(lang) {
     if (frame.querySelector("iframe")) return;
     const f = document.createElement("iframe");
     f.src = NOTIFY_FORM_URL + "?embedded=true"; f.width = "100%"; f.height = "1500"; f.style.border = "0";
-    f.loading = "lazy"; f.title = t(lang, "js.iframe.title");
+    f.loading = "lazy"; f.title = t(lang, "js.iframe.title"); f.setAttribute("scrolling", "no");
     frame.replaceChildren(f);
   } else {
     frame.innerHTML = `<p>${t(lang, "js.fallback.p")}</p>
@@ -85,10 +85,15 @@ document.addEventListener("DOMContentLoaded", () => {
   applyLang(pickLang());
   // ☰ 서랍 메뉴
   const mb = document.querySelector(".menu-btn"), drawer = document.querySelector(".drawer");
+  const isOpen = () => document.body.classList.contains("drawer-open");
   const setDrawer = o => { document.body.classList.toggle("drawer-open", o); if (mb) mb.setAttribute("aria-expanded", String(o)); if (drawer) drawer.setAttribute("aria-hidden", String(!o)); };
-  if (mb) mb.addEventListener("click", () => setDrawer(!document.body.classList.contains("drawer-open")));
-  document.querySelectorAll(".drawer-close, .drawer-dim").forEach(el => el.addEventListener("click", () => setDrawer(false)));
-  document.addEventListener("keydown", e => { if (e.key === "Escape") setDrawer(false); });
+  // 서랍을 열면 이력에 한 단을 넣는다 → 폰 뒤로가기가 페이지 대신 서랍을 닫는다
+  const openDrawer = () => { if (isOpen()) return; setDrawer(true); try { history.pushState({ drawer: 1 }, ""); } catch (_) {} };
+  const closeDrawer = () => { if (!isOpen()) return; if (history.state && history.state.drawer) history.back(); else setDrawer(false); };
+  window.addEventListener("popstate", () => { if (isOpen()) setDrawer(false); });
+  if (mb) mb.addEventListener("click", () => isOpen() ? closeDrawer() : openDrawer());
+  document.querySelectorAll(".drawer-close, .drawer-dim").forEach(el => el.addEventListener("click", closeDrawer));
+  document.addEventListener("keydown", e => { if (e.key === "Escape") closeDrawer(); });
   document.querySelectorAll(".drawer-nav .group-head").forEach(h => h.addEventListener("click", () => {
     const g = h.parentElement, o = g.classList.toggle("open"); h.setAttribute("aria-expanded", String(o));
   }));

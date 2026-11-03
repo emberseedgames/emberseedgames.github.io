@@ -281,7 +281,8 @@ html, body { overflow-x: hidden; }
   .drawer-social a { color: var(--ink-dim); font-family: var(--font-en); font-weight: 600; font-size: .85rem; padding: 6px 10px; border: 1px solid var(--steel-hi); border-radius: 4px; }
   .hero .game-title { font-size: clamp(40px, 11.5vw, 120px); }
   .hero .btn { min-width: 0; width: min(280px, 80vw); display: block; margin: 0 auto; }
-  .hero .btn + .btn { margin-top: 10px; }
+  .hero .inner .btn + .btn { margin: 10px auto 0; }   /* PC 용 왼쪽 여백 끔 · 정가운데 */
+  .notify-page iframe { height: 2600px !important; }   /* 폰 = 폼 안쪽 스크롤 없이 페이지가 길어진다 */
   .banner { min-height: 38vh; }
   .banner .inner { padding: 96px 20px 28px; }
   .wrap { padding: 0 20px; }
