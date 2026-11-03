@@ -127,7 +127,7 @@ body.home .footer .wrap { justify-content: flex-start; max-width: none; padding:
   background-color: var(--ground); background-position: center; background-size: cover; background-repeat: no-repeat;
 }
 .banner::after { content: ""; position: absolute; inset: 0; background: linear-gradient(to bottom, rgba(18,20,24,.55), rgba(18,20,24,.96)); }
-.banner .inner { position: relative; z-index: 1; padding: 120px 0 36px; }
+.banner .inner { position: relative; z-index: 1; width: 100%; padding: 120px 24px 36px; }   /* 본문 .wrap 과 같은 왼쪽 선 */
 .banner .kicker { color: var(--amber); font-size: .85rem; letter-spacing: .25em; text-transform: uppercase; font-family: var(--font-en); margin-bottom: 8px; }
 .banner h1 { margin-bottom: .2em; }
 .banner .tag { color: var(--ink-dim); font-size: 1.05rem; max-width: 640px; }
