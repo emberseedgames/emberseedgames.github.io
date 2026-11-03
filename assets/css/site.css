@@ -67,6 +67,11 @@ body.drawer-open .drawer-dim { opacity: 1; pointer-events: auto; }
 .drawer-nav a { color: var(--ink); padding: 12px 14px; border-radius: 4px; font-size: 1.05rem; font-weight: 500; }
 .drawer-nav a:hover { background: rgba(52,59,70,.45); }
 .drawer-nav a.on { color: var(--amber); }
+.drawer-nav .group-head { display: flex; align-items: center; justify-content: space-between; width: 100%; background: none; border: 0; color: var(--ink); padding: 12px 14px; border-radius: 4px; font-size: 1.05rem; font-weight: 500; font-family: inherit; cursor: pointer; text-align: left; }
+.drawer-nav .group-head:hover { background: rgba(52,59,70,.45); }
+.drawer-nav .group-head .caret { color: var(--ink-dim); transition: transform .2s; }
+.drawer-nav .group:not(.open) .group-head .caret { transform: rotate(-90deg); }
+.drawer-nav .group:not(.open) .sub { display: none; }
 .drawer-nav .sub { display: flex; flex-direction: column; margin: 0 0 6px 18px; border-left: 2px solid var(--steel-hi); }
 .drawer-nav .sub a { font-size: .95rem; color: var(--ink-dim); padding: 9px 14px; }
 .drawer-nav .sub a:hover, .drawer-nav .sub a.on { color: var(--amber); }

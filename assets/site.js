@@ -89,6 +89,9 @@ document.addEventListener("DOMContentLoaded", () => {
   if (mb) mb.addEventListener("click", () => setDrawer(!document.body.classList.contains("drawer-open")));
   document.querySelectorAll(".drawer-close, .drawer-dim").forEach(el => el.addEventListener("click", () => setDrawer(false)));
   document.addEventListener("keydown", e => { if (e.key === "Escape") setDrawer(false); });
+  document.querySelectorAll(".drawer-nav .group-head").forEach(h => h.addEventListener("click", () => {
+    const g = h.parentElement, o = g.classList.toggle("open"); h.setAttribute("aria-expanded", String(o));
+  }));
   // 현재 페이지 표시
   const here = location.pathname.split("/").pop() || "index.html";
   document.querySelectorAll(".drawer-nav a").forEach(a => { if (a.getAttribute("href") === here) a.classList.add("on"); });
