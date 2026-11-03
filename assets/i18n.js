@@ -56,9 +56,10 @@ en: {
   "devlog.title": "Devlog — Emberseed",
   "devlog.desc": "STALVERON development notes. The road so far and the posts to come.",
   "devlog.h1": "Devlog",
-  "devlog.soon": "Coming soon", "devlog.p2.where": "First community post",
+  "devlog.p1.body": "Coming November 7.",
+  "devlog.soon": "Coming soon",
 "devlog.p1.h3": "Devlog #1: Dawn at the star-site",
-"devlog.p2.h3": "A spectator trap game, made alone",
+
 
 
 
@@ -151,9 +152,10 @@ ja: {
   "devlog.title": "開発日誌 — Emberseed",
   "devlog.desc": "STALVERON の開発記録。これまでの道のりと、これからの記事。",
   "devlog.h1": "開発日誌",
-  "devlog.soon": "近日公開", "devlog.p2.where": "コミュニティ初投稿",
+  "devlog.p1.body": "11月7日に公開します。",
+  "devlog.soon": "近日公開",
 "devlog.p1.h3": "第1回 開発日誌 — 星の地の夜明け",
-"devlog.p2.h3": "ひとりで作る観戦型トラップゲーム",
+
 
 
 
@@ -246,9 +248,10 @@ zh: {
   "devlog.title": "开发日志 — Emberseed",
   "devlog.desc": "STALVERON 开发记录。走过的路和将要写的文章。",
   "devlog.h1": "开发日志",
-  "devlog.soon": "即将发布", "devlog.p2.where": "社区首帖",
+  "devlog.p1.body": "11 月 7 日发布。",
+  "devlog.soon": "即将发布",
 "devlog.p1.h3": "第 1 篇开发日志 — 星之地的黎明",
-"devlog.p2.h3": "一个人做的观战型陷阱游戏",
+
 
 
 
