@@ -40,7 +40,7 @@ en: {
 
   "game.hub.h2": "The control tent",
   "game.hub.p1": "Between expeditions, all the preparation happens here. Check the team that's about to go in, their jobs, personalities and stats, and set the condition at which they call a retreat.",
-  "game.hub.p2": "Anything goes, as long as it gets them to that state. Strengthen or weaken them through pre-work, and change the leader to move the team the way you want.",
+  "game.hub.p2": "Anything goes, as long as it gets them to the retreat state. Strengthen or weaken them through pre-work, and change the leader to move the team the way you want.",
   "game.play.h2": "Build the inside of the star, then watch",
   "game.play.p1": "Place facilities in the galleries, switch lights on and off, decide what to block and what to leave open. All before the expedition walks in.",
   "game.play.p2": "A team of four walks the paths you built. You can't control them. They make the calls; the results come back through the control-room screen and the radio.",
@@ -146,7 +146,7 @@ ja: {
 
   "game.hub.h2": "管制テント",
   "game.hub.p1": "探査と探査のあいだ、準備はすべてここで行います。突入を控えた探査隊の職業・性格・能力値を確認し、撤退を求める状態を決めてください。",
-  "game.hub.p2": "その状態に合わせるためなら、何をしても構いません。事前作業で彼らを強化または弱体化し、リーダーを変えて探査隊を思いどおりに動かしてください。",
+  "game.hub.p2": "撤退を求める状態に合わせるためなら、何をしても構いません。事前作業で彼らを強化または弱体化し、リーダーを変えて探査隊を思いどおりに動かしてください。",
   "game.play.h2": "星の内側を造り、見守る",
   "game.play.p1": "回廊に設備を置き、灯りを点けたり消したり、どこを塞ぎどこを開けておくかを決めます。探査隊が入ってくる前に終えなければなりません。",
   "game.play.p2": "四人の探査隊が、あなたの造った道を歩きます。直接操作はできません。判断は彼らがし、結果は管制室の画面と無線で返ってきます。",
@@ -252,7 +252,7 @@ zh: {
 
   "game.hub.h2": "控制帐篷",
   "game.hub.p1": "在两次探索之间，所有准备都在这里完成。确认即将进入的探索队的职业、性格和能力值，并设定他们请求撤退的状态。",
-  "game.hub.p2": "只要能让他们达到那个状态，做什么都可以。通过前置作业强化或削弱他们，并更换队长，让探索队按你的意图行动。",
+  "game.hub.p2": "只要能让他们达到请求撤退的状态，做什么都可以。通过前置作业强化或削弱他们，并更换队长，让探索队按你的意图行动。",
   "game.play.h2": "建造星的内部，然后观战",
   "game.play.p1": "在回廊里放置设施，开灯关灯，决定哪里封住、哪里留开。必须在探索队进来之前完成。",
   "game.play.p2": "四人探索队走你建的路。你不能直接操控。判断由他们做，结果通过控制室画面和无线电传回来。",
