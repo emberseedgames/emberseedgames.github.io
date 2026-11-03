@@ -29,7 +29,6 @@ en: {
 
 
 
-  "home.notify.h2": "Stay in the loop",
   "home.notify.p": "We'll email you when there's news.",
 
   // STALVERON
@@ -131,7 +130,6 @@ ja: {
 
 
 
-  "home.notify.h2": "お知らせを受け取る",
   "home.notify.p": "新しいお知らせがあればメールでお届けします。",
 
   // STALVERON
@@ -233,7 +231,6 @@ zh: {
 
 
 
-  "home.notify.h2": "订阅消息",
   "home.notify.p": "有新消息时，我们会通过邮件通知您。",
 
   // STALVERON
