@@ -32,7 +32,7 @@ en: {
   "home.r3.h3": "Closed test finished", "home.r3.p": "We finished our first closed test with fifteen testers. Its results shaped the rules and screens you'll see now.",
   "home.recent.more": "All devlog posts →",
   "home.notify.h2": "Stay in the loop",
-  "home.notify.p": "We'll email you when the demo goes public, the store page opens, or a spin-off episode is released. We don't send often."
+  "home.notify.p": "We'll email you when the demo goes public, the store page opens, or a spin-off episode is released. We don't send often.",
 
   // STALVERON
   "game.title": "STALVERON — Emberseed",
@@ -58,7 +58,7 @@ en: {
   "game.spec.lang": "Languages", "game.spec.lang.v": "Korean · English and more in preparation",
   "game.spec.dev": "Developer", "game.spec.dev.v": "Emberseed · Godot Engine",
   "game.notify.h2": "We'll tell you when the store page opens",
-  "game.notify.p": "Be the first to hear about the demo and the wishlist."
+  "game.notify.p": "Be the first to hear about the demo and the wishlist.",
 
   // 데브로그
   "devlog.title": "Devlog — Emberseed",
@@ -75,7 +75,7 @@ en: {
   "devlog.t4.h3": "Closed test", "devlog.t4.p": "First closed test with fifteen testers. Much of the rules and screens changed here.",
   "devlog.t5.h3": "Emberseed begins", "devlog.t5.p": "Registered as a business in Cheonan. A one-person project became a company.",
   "devlog.notify.h2": "Get notified of new posts",
-  "devlog.notify.p": "By email or on X. We don't send often."
+  "devlog.notify.p": "By email or on X. We don't send often.",
 
   // 스핀오프
   "spin.title": "Spin-off — Emberseed",
@@ -90,7 +90,7 @@ en: {
   "spin.ep1.h3": "Episode 1: in preparation", "spin.ep1.p": "Dawn in the steam greenhouse. A stopped circulation pump and one filter that never came.",
   "spin.ep2.h3": "And then", "spin.ep2.p": "Episodes follow one by one after the first. Release days are announced on X and by email.",
   "spin.notify.h2": "We'll tell you when episode 1 is up",
-  "spin.notify.p": "By email or on X. Serial news only."
+  "spin.notify.p": "By email or on X. Serial news only.",
 
   // 연락
   "contact.title": "Contact — Emberseed",
@@ -103,7 +103,7 @@ en: {
   "notify.h1": "Sign up for updates", "notify.tag": "We'll email you about the demo release, store page opening and spin-off episodes. We don't send often.",
   "contact.channels.h2": "Channels",
   "contact.k.mail": "Email", "contact.k.company": "Company", "contact.company.v": "Emberseed · Cheonan, South Korea",
-  "contact.dim": "Streamer and tester demo-key requests, publishing and collaboration proposals: please email. We usually reply within a few days."
+  "contact.dim": "Streamer and tester demo-key requests, publishing and collaboration proposals: please email. We usually reply within a few days.",
 },
 ja: {
   // 공통
@@ -136,7 +136,7 @@ ja: {
   "home.r3.h3": "クローズドテスト終了", "home.r3.p": "15名のテスターと行った最初のクローズドテストを終えました。その結果が今のルールと画面になっています。",
   "home.recent.more": "開発日誌をすべて見る →",
   "home.notify.h2": "お知らせを受け取る",
-  "home.notify.p": "デモ公開、ストアページ開設、スピンオフ連載のお知らせをメールでお届けします。頻繁には送りません。"
+  "home.notify.p": "デモ公開、ストアページ開設、スピンオフ連載のお知らせをメールでお届けします。頻繁には送りません。",
 
   // STALVERON
   "game.title": "STALVERON — Emberseed",
@@ -162,7 +162,7 @@ ja: {
   "game.spec.lang": "言語", "game.spec.lang.v": "韓国語 · 英語ほか追加言語を準備中",
   "game.spec.dev": "開発", "game.spec.dev.v": "Emberseed · Godot Engine",
   "game.notify.h2": "ストアページが開いたらお知らせします",
-  "game.notify.p": "デモ公開とウィッシュリスト開設の知らせを、いちばん早く受け取れます。"
+  "game.notify.p": "デモ公開とウィッシュリスト開設の知らせを、いちばん早く受け取れます。",
 
   // 데브로그
   "devlog.title": "開発日誌 — Emberseed",
@@ -179,7 +179,7 @@ ja: {
   "devlog.t4.h3": "クローズドテスト", "devlog.t4.p": "15名のテスターと最初のクローズドテスト。ルールと画面の多くがここで変わりました。",
   "devlog.t5.h3": "Emberseed 始動", "devlog.t5.p": "忠清南道・天安で事業者登録。ひとりのプロジェクトが会社になりました。",
   "devlog.notify.h2": "新しい記事が出たらお知らせします",
-  "devlog.notify.p": "メールまたは X で。頻繁には送りません。"
+  "devlog.notify.p": "メールまたは X で。頻繁には送りません。",
 
   // 스핀오프
   "spin.title": "スピンオフ — Emberseed",
@@ -194,7 +194,7 @@ ja: {
   "spin.ep1.h3": "第1話 — 準備中", "spin.ep1.p": "蒸気温室の夜明け。止まった循環ポンプと、届かなかったフィルターひとつ。",
   "spin.ep2.h3": "続き", "spin.ep2.p": "第1話のあと順に公開します。公開日は X とメールでお知らせします。",
   "spin.notify.h2": "第1話が公開されたらお知らせします",
-  "spin.notify.p": "メールまたは X で。連載の知らせだけを送ります。"
+  "spin.notify.p": "メールまたは X で。連載の知らせだけを送ります。",
 
   // 연락
   "contact.title": "お問い合わせ — Emberseed",
@@ -207,7 +207,7 @@ ja: {
   "notify.h1": "お知らせ登録", "notify.tag": "デモ公開、ストアページ開設、スピンオフ連載のお知らせをメールでお届けします。頻繁には送りません。",
   "contact.channels.h2": "チャンネル",
   "contact.k.mail": "メール", "contact.k.company": "会社", "contact.company.v": "Emberseed · 韓国・天安",
-  "contact.dim": "配信者・テスター向けデモキーのお問い合わせ、パブリッシング・協業のご提案はメールでお願いします。通常、数日以内にお返事します。"
+  "contact.dim": "配信者・テスター向けデモキーのお問い合わせ、パブリッシング・協業のご提案はメールでお願いします。通常、数日以内にお返事します。",
 },
 zh: {
   // 공통
@@ -240,7 +240,7 @@ zh: {
   "home.r3.h3": "封闭测试结束", "home.r3.p": "与十五位测试者一起完成了第一次封闭测试。它的结果成为了现在的规则和画面。",
   "home.recent.more": "查看全部开发日志 →",
   "home.notify.h2": "订阅消息",
-  "home.notify.p": "试玩版公开、商店页面上线、外传连载时，我们会发邮件通知。不会频繁发送。"
+  "home.notify.p": "试玩版公开、商店页面上线、外传连载时，我们会发邮件通知。不会频繁发送。",
 
   // STALVERON
   "game.title": "STALVERON — Emberseed",
@@ -266,7 +266,7 @@ zh: {
   "game.spec.lang": "语言", "game.spec.lang.v": "韩语 · 英语等更多语言准备中",
   "game.spec.dev": "开发", "game.spec.dev.v": "Emberseed · Godot Engine",
   "game.notify.h2": "商店页面上线时通知您",
-  "game.notify.p": "第一时间收到试玩版公开和愿望单开放的消息。"
+  "game.notify.p": "第一时间收到试玩版公开和愿望单开放的消息。",
 
   // 데브로그
   "devlog.title": "开发日志 — Emberseed",
@@ -283,7 +283,7 @@ zh: {
   "devlog.t4.h3": "封闭测试", "devlog.t4.p": "与十五位测试者的第一次封闭测试。规则和画面的很多部分在这里改变。",
   "devlog.t5.h3": "Emberseed 启动", "devlog.t5.p": "在忠清南道天安完成工商登记。一个人的项目变成了公司。",
   "devlog.notify.h2": "有新文章时通知您",
-  "devlog.notify.p": "邮件或 X。不会频繁发送。"
+  "devlog.notify.p": "邮件或 X。不会频繁发送。",
 
   // 스핀오프
   "spin.title": "外传 — Emberseed",
@@ -298,7 +298,7 @@ zh: {
   "spin.ep1.h3": "第 1 话 — 准备中", "spin.ep1.p": "蒸汽温室的黎明。停转的循环泵，和一个没有送到的滤芯。",
   "spin.ep2.h3": "接下来", "spin.ep2.p": "第 1 话之后依次发布。发布日会在 X 和邮件通知。",
   "spin.notify.h2": "第 1 话发布时通知您",
-  "spin.notify.p": "邮件或 X。只发连载消息。"
+  "spin.notify.p": "邮件或 X。只发连载消息。",
 
   // 연락
   "contact.title": "联系 — Emberseed",
@@ -311,6 +311,6 @@ zh: {
   "notify.h1": "订阅消息", "notify.tag": "试玩版公开、商店页面上线、外传连载时，我们会发邮件通知。不会频繁发送。",
   "contact.channels.h2": "渠道",
   "contact.k.mail": "邮件", "contact.k.company": "公司", "contact.company.v": "Emberseed · 韩国天安",
-  "contact.dim": "主播·测试者的试玩码咨询，发行·合作提案请发邮件。通常几天内回复。"
+  "contact.dim": "主播·测试者的试玩码咨询，发行·合作提案请发邮件。通常几天内回复。",
 }
 };
