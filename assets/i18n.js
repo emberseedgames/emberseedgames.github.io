@@ -23,7 +23,6 @@ en: {
 
 
 
-
   "home.notify.p": "We'll email you when there's news.",
 
   // STALVERON
@@ -33,7 +32,6 @@ en: {
   "game.story.h2": "Walking cities, a fallen star",
   "game.story.p1": "Two hundred years after the catastrophe. To stay ahead of the winter storm that follows them, humanity rides giant legged cities, the Emberwalkers, across an endless sheet of ice. An Emberwalker's heart is the core of a ‘star’ that fell from the sky. The core of Elina's city, District 27, is cooling, and its legs are slowing down.",
   "game.story.p2": "Where they arrive in search of a new core, Elina comes face to face with a truth the world has hidden, and a past it has forgotten.",
-
   "game.hub.h2": "The control tent",
   "game.hub.p1": "Between expeditions, all the preparation happens here. Check the team that's about to go in, their jobs, personalities and stats, and set the condition at which they call a retreat.",
   "game.hub.p2": "Anything goes, as long as it gets them to the retreat state. Strengthen or weaken them through pre-work, and change the leader to move the team the way you want.",
@@ -56,7 +54,6 @@ en: {
   "game.spec.date": "Release", "game.spec.date.v": "Planned for 2027 · demo first",
   "game.spec.genre": "Genre", "game.spec.genre.v": "Spectator dungeon design · story",
   "game.spec.lang": "Languages", "game.spec.lang.v": "Korean · English and more in preparation",
-  "game.spec.dev": "Developer", "game.spec.dev.v": "Emberseed · Godot Engine",
   "game.notify.h2": "We'll tell you when the store page opens",
   "game.notify.p": "Be the first to hear about the demo and the wishlist.",
 
@@ -127,7 +124,6 @@ ja: {
 
 
 
-
   "home.notify.p": "新しいお知らせがあればメールでお届けします。",
 
   // STALVERON
@@ -137,7 +133,6 @@ ja: {
   "game.story.h2": "歩く都市、落ちた星",
   "game.story.p1": "大災厄から二百年。人類は背後から迫る冬の嵐から逃れるため、脚の付いた巨大な都市エンバーウォーカーに乗り、果てしない氷の上を歩き続けています。エンバーウォーカーの心臓は、空から落ちてきた「星」の核。エリナの都市・27区の核は冷えつつあり、脚は少しずつ遅くなっています。",
   "game.story.p2": "新しい核を求めてたどり着いた場所で、エリナは世界が隠してきた真実と、忘れられた過去に向き合います。",
-
   "game.hub.h2": "管制テント",
   "game.hub.p1": "探査と探査のあいだ、準備はすべてここで行います。突入を控えた探査隊の職業・性格・能力値を確認し、撤退を求める状態を決めてください。",
   "game.hub.p2": "撤退を求める状態に合わせるためなら、何をしても構いません。事前作業で彼らを強化または弱体化し、リーダーを変えて探査隊を思いどおりに動かしてください。",
@@ -160,7 +155,6 @@ ja: {
   "game.spec.date": "発売", "game.spec.date.v": "2027年予定 · デモを先行公開",
   "game.spec.genre": "ジャンル", "game.spec.genre.v": "観戦型ダンジョン設計 · ストーリー",
   "game.spec.lang": "言語", "game.spec.lang.v": "韓国語 · 英語ほか追加言語を準備中",
-  "game.spec.dev": "開発", "game.spec.dev.v": "Emberseed · Godot Engine",
   "game.notify.h2": "ストアページが開いたらお知らせします",
   "game.notify.p": "デモ公開とウィッシュリスト開設の知らせを、いちばん早く受け取れます。",
 
@@ -231,7 +225,6 @@ zh: {
 
 
 
-
   "home.notify.p": "有新消息时，我们会通过邮件通知您。",
 
   // STALVERON
@@ -241,7 +234,6 @@ zh: {
   "game.story.h2": "行走的城市，坠落的星",
   "game.story.p1": "大灾变后两百年。为了躲开身后追来的冬季风暴，人类登上长着腿的巨大城市“余烬行者”，在无尽的冰原上前行。余烬行者的心脏，是一颗从天而降的“星”的核。艾琳娜所在的城市 27 区，核正在冷却，腿也越来越慢。",
   "game.story.p2": "在为寻找新核而抵达的地方，艾琳娜将直面这个世界隐藏的真相与被遗忘的过去。",
-
   "game.hub.h2": "控制帐篷",
   "game.hub.p1": "在两次探索之间，所有准备都在这里完成。确认即将进入的探索队的职业、性格和能力值，并设定他们请求撤退的状态。",
   "game.hub.p2": "只要能让他们达到请求撤退的状态，做什么都可以。通过前置作业强化或削弱他们，并更换队长，让探索队按你的意图行动。",
@@ -264,7 +256,6 @@ zh: {
   "game.spec.date": "发售", "game.spec.date.v": "预计 2027 年 · 先公开试玩版",
   "game.spec.genre": "类型", "game.spec.genre.v": "观战型地牢设计 · 剧情",
   "game.spec.lang": "语言", "game.spec.lang.v": "韩语 · 英语等更多语言准备中",
-  "game.spec.dev": "开发", "game.spec.dev.v": "Emberseed · Godot Engine",
   "game.notify.h2": "商店页面上线时通知您",
   "game.notify.p": "第一时间收到试玩版公开和愿望单开放的消息。",
 
