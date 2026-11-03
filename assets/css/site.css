@@ -84,7 +84,13 @@ body.home { overflow: hidden; height: 100vh; }
 body.home .hero { height: 100vh; min-height: 0; }
 body.home .footer { position: fixed; left: 0; right: 0; bottom: 0; border-top: 0; padding: 18px 0; background: linear-gradient(to top, rgba(12,14,17,.85), rgba(12,14,17,0)); z-index: 2; }
 body.home .footer .wrap { justify-content: flex-end; gap: 28px; }   /* 왼쪽은 엘리나 자리 */
-.hero .char { position: absolute; left: 4vw; bottom: 0; height: 90vh; width: auto; z-index: 1; filter: drop-shadow(0 10px 30px rgba(0,0,0,.6)); pointer-events: none; }
+.hero .char {
+  position: absolute; left: 5vw; bottom: 0; height: 86vh; width: auto; z-index: 0;   /* 0 = 배경 어둠(::after) 아래 → 같은 톤을 받는다 */
+  filter: brightness(.86) saturate(.85) contrast(.96) drop-shadow(0 8px 26px rgba(0,0,0,.55));
+  -webkit-mask-image: linear-gradient(to bottom, #000 80%, rgba(0,0,0,0) 100%);
+  mask-image: linear-gradient(to bottom, #000 80%, rgba(0,0,0,0) 100%);              /* 발은 땅 어둠에 녹인다 */
+  pointer-events: none;
+}
 @media (max-width: 1100px) { .hero .char { height: 70vh; left: 0; opacity: .85; } }
 @media (max-width: 820px) { .hero .char { display: none; } }
 
