@@ -25,7 +25,6 @@ en: {
 
 
 
-
   "home.notify.p": "We'll email you when there's news.",
 
   // STALVERON
@@ -37,14 +36,12 @@ en: {
   "game.story.p2": "Where they arrive in search of a new core, Elina comes face to face with a truth the world has hidden, and a past it has forgotten.",
 
 
-
   "game.hub.h2": "The control tent",
   "game.hub.p1": "Between expeditions, all the preparation happens here. Check the team that's about to go in, their jobs, personalities and stats, and set the condition at which they call a retreat.",
   "game.hub.p2": "Anything goes, as long as it gets them to the retreat state. Strengthen or weaken them through pre-work, and change the leader to move the team the way you want.",
   "game.play.h2": "Plan, execute, and revise",
   "game.play.p1": "Build defenses to bring them to the retreat state. Not too many, not too few. Plan thoroughly, and watch to the end.",
   "game.play.p2": "Even a nameless expedition member came in with their life on the line, for their Emberwalker, their family, or their beliefs.",
-  "game.shot.soon": "Screenshot coming soon",
   "game.attune.h2": "Attunement",
   "game.attune.p1": "Elina gathers information through attunement. But time is limited. Choose the information you want, and attune.",
   "game.chars.h2": "The people of District 27",
@@ -129,7 +126,6 @@ ja: {
 
 
 
-
   "home.notify.p": "新しいお知らせがあればメールでお届けします。",
 
   // STALVERON
@@ -141,14 +137,12 @@ ja: {
   "game.story.p2": "新しい核を求めてたどり着いた場所で、エリナは世界が隠してきた真実と、忘れられた過去に向き合います。",
 
 
-
   "game.hub.h2": "管制テント",
   "game.hub.p1": "探査と探査のあいだ、準備はすべてここで行います。突入を控えた探査隊の職業・性格・能力値を確認し、撤退を求める状態を決めてください。",
   "game.hub.p2": "撤退を求める状態に合わせるためなら、何をしても構いません。事前作業で彼らを強化または弱体化し、リーダーを変えて探査隊を思いどおりに動かしてください。",
   "game.play.h2": "計画と実行、そして修正",
   "game.play.p1": "撤退を求める状態に合わせて防御施設を築いてください。多すぎても、少なすぎてもいけません。徹底的に計画し、最後まで見届けてください。",
   "game.play.p2": "名もなき探査隊員であっても、自分のエンバーウォーカーや家族、あるいは信念を守るために、命を懸けて入ってきた者たちです。",
-  "game.shot.soon": "スクリーンショット準備中",
   "game.attune.h2": "感応",
   "game.attune.p1": "エリナは感応を通じて情報を集めます。しかし時間は限られています。手に入れたい情報を選び、感応してください。",
   "game.chars.h2": "27区の人々",
@@ -233,7 +227,6 @@ zh: {
 
 
 
-
   "home.notify.p": "有新消息时，我们会通过邮件通知您。",
 
   // STALVERON
@@ -245,14 +238,12 @@ zh: {
   "game.story.p2": "在为寻找新核而抵达的地方，艾琳娜将直面这个世界隐藏的真相与被遗忘的过去。",
 
 
-
   "game.hub.h2": "控制帐篷",
   "game.hub.p1": "在两次探索之间，所有准备都在这里完成。确认即将进入的探索队的职业、性格和能力值，并设定他们请求撤退的状态。",
   "game.hub.p2": "只要能让他们达到请求撤退的状态，做什么都可以。通过前置作业强化或削弱他们，并更换队长，让探索队按你的意图行动。",
   "game.play.h2": "计划、执行，然后修正",
   "game.play.p1": "为了让他们达到请求撤退的状态，请构筑防御设施。不能太多，也不能太少。周密计划，并守望到最后。",
   "game.play.p2": "即使是无名的探索队员，也是为了守护自己的余烬行者、家人或信念，赌上性命进来的人。",
-  "game.shot.soon": "截图准备中",
   "game.attune.h2": "感应",
   "game.attune.p1": "艾琳娜通过感应收集信息。但时间有限。选择你想获取的信息，然后感应。",
   "game.chars.h2": "27 区的人们",
