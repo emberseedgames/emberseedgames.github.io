@@ -47,6 +47,9 @@ p { margin: 0 0 1em; }
 .brand { display: flex; align-items: center; gap: 10px; color: var(--ink); font-family: var(--font-en); font-weight: 600; font-size: 1.05rem; letter-spacing: .01em; }
 .brand img { height: 22px; width: auto; }
 .topbar .left, .topbar .right { display: flex; align-items: center; gap: 14px; }
+.social { display: flex; gap: 2px; margin-right: 6px; }
+.social a { color: var(--ink-dim); font-family: var(--font-en); font-weight: 600; font-size: .85rem; padding: 6px 10px; border-radius: 4px; }
+.social a:hover { color: var(--amber); background: rgba(52,59,70,.35); }
 /* ☰ */
 .menu-btn { display: grid; gap: 5px; background: none; border: 0; padding: 8px 6px; cursor: pointer; }
 .menu-btn span { display: block; width: 22px; height: 2px; background: var(--ink); border-radius: 2px; transition: .2s; }
@@ -99,7 +102,7 @@ html[lang="en"] body { word-break: normal; }
 body.home { overflow: hidden; height: 100vh; }
 body.home .hero { height: 100vh; min-height: 0; }
 body.home .footer { position: fixed; left: 0; right: 0; bottom: 0; border-top: 0; padding: 18px 0; background: linear-gradient(to top, rgba(12,14,17,.85), rgba(12,14,17,0)); z-index: 2; }
-body.home .footer .wrap { justify-content: flex-end; gap: 28px; }   /* 왼쪽은 엘리나 자리 */
+body.home .footer .wrap { justify-content: flex-end; }   /* 왼쪽은 엘리나 자리 */
 .hero .char {
   /* 상반신만 크게 = 전신 그림을 2배로 키워 화면 아래로 내린다(머리~허리만 보임) */
   position: absolute; left: -1vw; bottom: -30vh; height: 140vh; width: auto; z-index: 0;   /* 0 = 배경 어둠(::after) 아래 → 같은 톤을 받는다 · 머리 꼭대기 ≈ 화면 14% */
