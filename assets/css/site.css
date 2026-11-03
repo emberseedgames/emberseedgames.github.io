@@ -62,9 +62,7 @@ body.drawer-open .drawer { transform: none; }
 body.drawer-open .drawer-dim { opacity: 1; pointer-events: auto; }
 .drawer-head { display: flex; align-items: center; gap: 14px; height: 64px; padding: 0 20px; border-bottom: 1px solid rgba(52,59,70,.6); }   /* 상단 바 ☰ 와 같은 자리 */
 .drawer-head .brand { cursor: default; }
-.drawer-close span:nth-child(1) { transform: translateY(7px) rotate(45deg); }   /* ☰ → × */
-.drawer-close span:nth-child(2) { opacity: 0; }
-.drawer-close span:nth-child(3) { transform: translateY(-7px) rotate(-45deg); }
+.drawer-close span { background: var(--amber); }   /* 열린 상태 = ☰ 그대로 · 호박색 */
 .drawer-nav { display: flex; flex-direction: column; padding: 14px 12px; flex: 1; }
 .drawer-nav a { color: var(--ink); padding: 12px 14px; border-radius: 4px; font-size: 1.05rem; font-weight: 500; }
 .drawer-nav a:hover { background: rgba(52,59,70,.45); }
