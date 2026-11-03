@@ -24,7 +24,6 @@ en: {
 
 
 
-
   "home.notify.p": "We'll email you when there's news.",
 
   // STALVERON
@@ -34,7 +33,6 @@ en: {
   "game.story.h2": "Walking cities, a fallen star",
   "game.story.p1": "Two hundred years after the catastrophe. To stay ahead of the winter storm that follows them, humanity rides giant legged cities, the Emberwalkers, across an endless sheet of ice. An Emberwalker's heart is the core of a ‘star’ that fell from the sky. The core of Elina's city, District 27, is cooling, and its legs are slowing down.",
   "game.story.p2": "Where they arrive in search of a new core, Elina comes face to face with a truth the world has hidden, and a past it has forgotten.",
-
 
   "game.hub.h2": "The control tent",
   "game.hub.p1": "Between expeditions, all the preparation happens here. Check the team that's about to go in, their jobs, personalities and stats, and set the condition at which they call a retreat.",
@@ -48,7 +46,6 @@ en: {
   "game.elina.role": "Core Controller, District 27", "game.elina.h3": "Elina", "game.elina.q": "I'm just… trying to light an ember that's gone out.",
   "game.mira.role": "Expedition Captain, District 27", "game.mira.h3": "Mira", "game.mira.q": "As long as we get paid properly, that's all that matters.",
   "game.berto.role": "Mayor of District 27", "game.berto.h3": "Berto", "game.berto.q": "In this hell of a world, I have a duty to keep the people of my district alive.",
-  "game.censored": "CENSORED",
   "game.kyle.role": "Chief Engineer, District 27", "game.kyle.h3": "Kyle",
   "game.hans.role": "Guard Captain, District 27", "game.hans.h3": "Hans",
   "game.elius.role": "Inquisitor, District 1", "game.elius.h3": "Elius",
@@ -131,7 +128,6 @@ ja: {
 
 
 
-
   "home.notify.p": "新しいお知らせがあればメールでお届けします。",
 
   // STALVERON
@@ -141,7 +137,6 @@ ja: {
   "game.story.h2": "歩く都市、落ちた星",
   "game.story.p1": "大災厄から二百年。人類は背後から迫る冬の嵐から逃れるため、脚の付いた巨大な都市エンバーウォーカーに乗り、果てしない氷の上を歩き続けています。エンバーウォーカーの心臓は、空から落ちてきた「星」の核。エリナの都市・27区の核は冷えつつあり、脚は少しずつ遅くなっています。",
   "game.story.p2": "新しい核を求めてたどり着いた場所で、エリナは世界が隠してきた真実と、忘れられた過去に向き合います。",
-
 
   "game.hub.h2": "管制テント",
   "game.hub.p1": "探査と探査のあいだ、準備はすべてここで行います。突入を控えた探査隊の職業・性格・能力値を確認し、撤退を求める状態を決めてください。",
@@ -155,7 +150,6 @@ ja: {
   "game.elina.role": "27区 核管制官", "game.elina.h3": "エリナ", "game.elina.q": "私はただ…消えてしまった火種を、もう一度ともしてみたいだけです。",
   "game.mira.role": "27区 探査隊長", "game.mira.h3": "ミラ", "game.mira.q": "私たちはどうせ、金さえきちんともらえればいいんだから。",
   "game.berto.role": "27区 市長", "game.berto.h3": "ベルト", "game.berto.q": "この地獄のような世界で、私には我が区の市民を生かす義務がある。",
-  "game.censored": "検閲済",
   "game.kyle.role": "27区 機関部長", "game.kyle.h3": "カイル",
   "game.hans.role": "27区 警備隊長", "game.hans.h3": "ハンス",
   "game.elius.role": "1区 審問官", "game.elius.h3": "エリウス",
@@ -238,7 +232,6 @@ zh: {
 
 
 
-
   "home.notify.p": "有新消息时，我们会通过邮件通知您。",
 
   // STALVERON
@@ -248,7 +241,6 @@ zh: {
   "game.story.h2": "行走的城市，坠落的星",
   "game.story.p1": "大灾变后两百年。为了躲开身后追来的冬季风暴，人类登上长着腿的巨大城市“余烬行者”，在无尽的冰原上前行。余烬行者的心脏，是一颗从天而降的“星”的核。艾琳娜所在的城市 27 区，核正在冷却，腿也越来越慢。",
   "game.story.p2": "在为寻找新核而抵达的地方，艾琳娜将直面这个世界隐藏的真相与被遗忘的过去。",
-
 
   "game.hub.h2": "控制帐篷",
   "game.hub.p1": "在两次探索之间，所有准备都在这里完成。确认即将进入的探索队的职业、性格和能力值，并设定他们请求撤退的状态。",
@@ -262,7 +254,6 @@ zh: {
   "game.elina.role": "27 区核心管制官", "game.elina.h3": "艾琳娜", "game.elina.q": "我只是……想把熄灭的火种重新点燃。",
   "game.mira.role": "27 区探索队长", "game.mira.h3": "米拉", "game.mira.q": "反正我们只要把钱拿到手就行了。",
   "game.berto.role": "27 区市长", "game.berto.h3": "贝尔托", "game.berto.q": "在这个地狱般的世界里，我有义务让我们区的市民活下去。",
-  "game.censored": "已审查",
   "game.kyle.role": "27 区机关部长", "game.kyle.h3": "凯尔",
   "game.hans.role": "27 区警备队长", "game.hans.h3": "汉斯",
   "game.elius.role": "1 区审问官", "game.elius.h3": "埃利乌斯",
