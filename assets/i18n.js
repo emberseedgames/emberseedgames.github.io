@@ -19,7 +19,6 @@ en: {
   // 회사(index)
   "home.title": "Emberseed — indie game studio",
   "home.desc": "Emberseed is an indie game studio. We're making our first game, STALVERON.",
-
   "home.notify.p": "We'll email you when there's news.",
 
   // STALVERON
@@ -66,8 +65,8 @@ en: {
   "devlog.t3.h3": "Contest entry · channels opened", "devlog.t3.p": "Entered our first contest with the demo build. Opened the X and YouTube channels.",
   "devlog.t4.h3": "Closed test", "devlog.t4.p": "First closed test with fifteen testers. Much of the rules and screens changed here.",
   "devlog.t5.h3": "Emberseed begins", "devlog.t5.p": "Registered as a business in Cheonan. A one-person project became a company.",
-  "devlog.notify.h2": "Get notified of new posts",
-  "devlog.notify.p": "By email or on X.",
+
+
 
   // 스핀오프
   "spin.title": "Spin-off — Emberseed",
@@ -81,8 +80,8 @@ en: {
   "spin.dim": "Six episodes planned. We publish episode 1, see how it lands, then write the next.",
   "spin.ep1.h3": "Episode 1: in preparation", "spin.ep1.p": "Dawn in the steam greenhouse. A stopped circulation pump and one filter that never came.",
   "spin.ep2.h3": "And then", "spin.ep2.p": "Episodes follow one by one after the first. Release days are announced on X and by email.",
-  "spin.notify.h2": "We'll tell you when episode 1 is up",
-  "spin.notify.p": "By email or on X. Serial news only.",
+
+
 
   // 연락
   "contact.title": "Contact — Emberseed",
@@ -115,7 +114,6 @@ ja: {
   // 회사(index)
   "home.title": "Emberseed — インディーゲーム開発チーム",
   "home.desc": "インディーゲーム開発チーム Emberseed。初作品 STALVERON を制作中です。",
-
   "home.notify.p": "新しいお知らせがあればメールでお届けします。",
 
   // STALVERON
@@ -162,8 +160,8 @@ ja: {
   "devlog.t3.h3": "コンテスト応募 · チャンネル開設", "devlog.t3.p": "デモビルドで最初のコンテストに応募しました。X と YouTube のチャンネルを開きました。",
   "devlog.t4.h3": "クローズドテスト", "devlog.t4.p": "15名のテスターと最初のクローズドテスト。ルールと画面の多くがここで変わりました。",
   "devlog.t5.h3": "Emberseed 始動", "devlog.t5.p": "忠清南道・天安で事業者登録。ひとりのプロジェクトが会社になりました。",
-  "devlog.notify.h2": "新しい記事が出たらお知らせします",
-  "devlog.notify.p": "メールまたは X でお知らせします。",
+
+
 
   // 스핀오프
   "spin.title": "スピンオフ — Emberseed",
@@ -177,8 +175,8 @@ ja: {
   "spin.dim": "基本は六話。第1話を公開して反応を見てから、次の話を書きます。",
   "spin.ep1.h3": "第1話 — 準備中", "spin.ep1.p": "蒸気温室の夜明け。止まった循環ポンプと、届かなかったフィルターひとつ。",
   "spin.ep2.h3": "続き", "spin.ep2.p": "第1話のあと順に公開します。公開日は X とメールでお知らせします。",
-  "spin.notify.h2": "第1話が公開されたらお知らせします",
-  "spin.notify.p": "メールまたは X で。連載の知らせだけを送ります。",
+
+
 
   // 연락
   "contact.title": "お問い合わせ — Emberseed",
@@ -211,7 +209,6 @@ zh: {
   // 회사(index)
   "home.title": "Emberseed — 独立游戏开发团队",
   "home.desc": "独立游戏开发团队 Emberseed。正在制作第一部作品 STALVERON。",
-
   "home.notify.p": "有新消息时，我们会通过邮件通知您。",
 
   // STALVERON
@@ -258,8 +255,8 @@ zh: {
   "devlog.t3.h3": "参赛 · 开设频道", "devlog.t3.p": "用试玩版报名了第一个比赛。开设了 X 和 YouTube 频道。",
   "devlog.t4.h3": "封闭测试", "devlog.t4.p": "与十五位测试者的第一次封闭测试。规则和画面的很多部分在这里改变。",
   "devlog.t5.h3": "Emberseed 启动", "devlog.t5.p": "在忠清南道天安完成工商登记。一个人的项目变成了公司。",
-  "devlog.notify.h2": "有新文章时通知您",
-  "devlog.notify.p": "通过邮件或 X 通知。",
+
+
 
   // 스핀오프
   "spin.title": "外传 — Emberseed",
@@ -273,8 +270,8 @@ zh: {
   "spin.dim": "基本六话。先发第 1 话，看反应再写下一话。",
   "spin.ep1.h3": "第 1 话 — 准备中", "spin.ep1.p": "蒸汽温室的黎明。停转的循环泵，和一个没有送到的滤芯。",
   "spin.ep2.h3": "接下来", "spin.ep2.p": "第 1 话之后依次发布。发布日会在 X 和邮件通知。",
-  "spin.notify.h2": "第 1 话发布时通知您",
-  "spin.notify.p": "邮件或 X。只发连载消息。",
+
+
 
   // 연락
   "contact.title": "联系 — Emberseed",
