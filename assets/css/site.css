@@ -224,7 +224,7 @@ body.home .footer .wrap { justify-content: flex-start; max-width: none; padding:
 
 /* 바닥 */
 .footer { border-top: 1px solid rgba(52,59,70,.6); padding: 40px 0 48px; color: var(--ink-dim); font-size: .85rem; }
-.footer .wrap { display: flex; justify-content: space-between; align-items: center; gap: 20px; flex-wrap: wrap; }
+.footer .wrap { display: flex; justify-content: flex-start; align-items: center; gap: 20px; flex-wrap: wrap; max-width: none; padding: 0 20px; }   /* 모든 페이지 = 첫 화면처럼 맨 왼쪽 */
 .footer .brand img { height: 18px; opacity: .8; }
 .footer nav a { color: var(--ink-dim); margin-left: 16px; }
 .footer nav a:hover { color: var(--ink); }
