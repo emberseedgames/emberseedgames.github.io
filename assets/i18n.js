@@ -12,7 +12,7 @@ en: {
   "team.m3.role": "Writer", "team.m3.p": "Assistant writer.",
   "team.m4.role": "Illustration", "team.m4.p": "Draws the backgrounds and character illustrations.",
   "footer.copy": "© 2026 Emberseed. Cheonan, South Korea.",
-  "btn.notify": "Get updates", "btn.notify.news": "Sign up for updates",
+  "btn.notify": "Sign up for updates", "btn.notify.news": "Sign up for updates",
   "js.mail.subject": "STALVERON updates sign-up", "js.mail.body": "Please send STALVERON news to this email address.",
   "js.fallback.p": "One email is enough. You can leave the subject empty.", "js.fallback.btn": "Sign up by email", "js.iframe.title": "Sign up for updates",
 
