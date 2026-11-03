@@ -86,10 +86,10 @@ body.home .footer { position: fixed; left: 0; right: 0; bottom: 0; border-top: 0
 body.home .footer .wrap { justify-content: flex-end; gap: 28px; }   /* 왼쪽은 엘리나 자리 */
 .hero .char {
   /* 상반신만 크게 = 전신 그림을 2배로 키워 화면 아래로 내린다(머리~허리만 보임) */
-  position: absolute; left: -6vw; bottom: -69vh; height: 190vh; width: auto; z-index: 0;   /* 0 = 배경 어둠(::after) 아래 → 같은 톤을 받는다 · 머리 꼭대기 ≈ 화면 12% */
+  position: absolute; left: -1vw; bottom: -30vh; height: 140vh; width: auto; z-index: 0;   /* 0 = 배경 어둠(::after) 아래 → 같은 톤을 받는다 · 머리 꼭대기 ≈ 화면 14% */
   filter: brightness(.86) saturate(.85) contrast(.96) drop-shadow(0 8px 26px rgba(0,0,0,.55));
-  -webkit-mask-image: linear-gradient(to bottom, #000 52%, rgba(0,0,0,0) 64%);
-  mask-image: linear-gradient(to bottom, #000 52%, rgba(0,0,0,0) 64%);              /* 허리 아래는 땅 어둠에 녹인다 */
+  -webkit-mask-image: linear-gradient(to bottom, #000 64%, rgba(0,0,0,0) 79%);
+  mask-image: linear-gradient(to bottom, #000 64%, rgba(0,0,0,0) 79%);              /* 허벅지 아래는 땅 어둠에 녹인다 */
   pointer-events: none;
 }
 @media (max-width: 1100px) { .hero .char { height: 70vh; left: 0; opacity: .85; } }
