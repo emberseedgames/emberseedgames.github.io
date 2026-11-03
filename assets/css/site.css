@@ -141,7 +141,7 @@ body.home .footer .wrap { justify-content: flex-start; max-width: none; padding:
 .btn.primary { background: var(--amber); border-color: var(--amber); color: #1a1206; }
 .btn.primary:hover { background: #f0ad45; color: #1a1206; }
 .btn + .btn { margin-left: 10px; }
-.hero .btn { min-width: 240px; text-align: center; }          /* 말이 바뀌어도 버튼 크기 고정 */
+.hero .btn, .notify .btn { min-width: 240px; text-align: center; }          /* 말이 바뀌어도 버튼 크기 고정 */
 
 /* ── 절 ── */
 .section { padding: 80px 0; border-top: 1px solid rgba(52,59,70,.45); }
