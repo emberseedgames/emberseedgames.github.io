@@ -26,7 +26,15 @@
         <a href="spinoff.html" data-i18n="nav.spinoff">스핀오프</a>
         <a href="contact.html" data-i18n="nav.contact">연락</a>
       </nav>
-      <div class="lang" aria-label="Language"><button data-lang="ko">KO</button><button data-lang="en">EN</button><button data-lang="ja">JA</button><button data-lang="zh">ZH</button></div>
+      <div class="lang" aria-label="Language">
+        <button class="lang-cur" type="button" aria-haspopup="listbox" aria-expanded="false"><span class="lang-cur-label">한국어</span><span class="caret">▾</span></button>
+        <div class="lang-menu" role="listbox">
+          <button type="button" role="option" data-lang="ko">한국어</button>
+          <button type="button" role="option" data-lang="en">English</button>
+          <button type="button" role="option" data-lang="ja">日本語</button>
+          <button type="button" role="option" data-lang="zh">简体中文</button>
+        </div>
+      </div>
       <button class="nav-toggle" aria-label="메뉴" data-i18n="nav.menu">메뉴</button>
     </div>
   </div>

@@ -45,7 +45,9 @@ function applyLang(lang) {
     if (!(k in KO_ATTR)) KO_ATTR[k] = el.getAttribute("content");
     el.setAttribute("content", (d && d[k] != null) ? d[k] : KO_ATTR[k]);
   });
-  document.querySelectorAll(".lang button").forEach(b => b.classList.toggle("on", b.dataset.lang === lang));
+  document.querySelectorAll(".lang-menu button").forEach(b => b.classList.toggle("on", b.dataset.lang === lang));
+  const cur = document.querySelector(".lang-cur-label"), pick = document.querySelector(`.lang-menu button[data-lang="${lang}"]`);
+  if (cur && pick) cur.textContent = pick.textContent;
   renderNotify(lang);
 }
 
@@ -71,8 +73,15 @@ function renderNotify(lang) {
 }
 
 document.addEventListener("DOMContentLoaded", () => {
-  // 언어 전환기(상단 바)
-  document.querySelectorAll(".lang button").forEach(b => b.addEventListener("click", () => applyLang(b.dataset.lang)));
+  // 언어 전환기(상단 바 드롭다운)
+  const lang = document.querySelector(".lang"), langBtn = document.querySelector(".lang-cur");
+  const closeLang = () => { if (lang) { lang.classList.remove("open"); langBtn.setAttribute("aria-expanded", "false"); } };
+  if (lang && langBtn) {
+    langBtn.addEventListener("click", e => { e.stopPropagation(); const o = lang.classList.toggle("open"); langBtn.setAttribute("aria-expanded", String(o)); });
+    document.addEventListener("click", closeLang);
+    document.addEventListener("keydown", e => { if (e.key === "Escape") closeLang(); });
+  }
+  document.querySelectorAll(".lang-menu button").forEach(b => b.addEventListener("click", () => { applyLang(b.dataset.lang); closeLang(); }));
   applyLang(pickLang());
   // 모바일 메뉴
   const tg = document.querySelector(".nav-toggle"), nav = document.querySelector(".nav");
