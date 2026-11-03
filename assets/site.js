@@ -4,7 +4,7 @@ const NOTIFY_FORM_URL = "";
 const CONTACT_MAIL = "emberseedgames@gmail.com";
 
 // ── 언어 ── 한국어 = HTML 본문이 정본 · 영어·일본어 = assets/i18n.js 사전
-const LANGS = ["ko", "en", "ja"];
+const LANGS = ["ko", "en", "ja", "zh"];
 const KO = {};            // 처음 읽을 때 HTML 의 한국어를 담아 둔다(되돌릴 때)
 const KO_ATTR = {};
 const KO_JS = {
@@ -27,6 +27,7 @@ function pickLang() {
   const nav = (navigator.language || "ko").toLowerCase();
   if (nav.startsWith("en")) return "en";
   if (nav.startsWith("ja")) return "ja";
+  if (nav.startsWith("zh")) return "zh";
   return "ko";
 }
 
