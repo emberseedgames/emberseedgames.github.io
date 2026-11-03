@@ -43,7 +43,7 @@ p { margin: 0 0 1em; }
   background: linear-gradient(to bottom, rgba(12,14,17,.92), rgba(12,14,17,.75));
   border-bottom: 1px solid rgba(52,59,70,.6); backdrop-filter: blur(6px);
 }
-.topbar .wrap { display: flex; align-items: center; justify-content: space-between; width: 100%; }
+.topbar .wrap { display: flex; align-items: center; justify-content: space-between; width: 100%; max-width: none; padding: 0 20px; }   /* 상단 바는 화면 끝까지 — ☰·마크는 맨 왼쪽, 언어는 맨 오른쪽 */
 .brand { display: flex; align-items: center; gap: 10px; color: var(--ink); font-family: var(--font-en); font-weight: 600; font-size: 1.05rem; letter-spacing: .01em; }
 .brand img { height: 22px; width: auto; }
 .topbar .left, .topbar .right { display: flex; align-items: center; gap: 14px; }
