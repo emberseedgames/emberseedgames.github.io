@@ -61,7 +61,7 @@ function renderNotify(lang) {
   if (NOTIFY_FORM_URL) {
     if (frame.querySelector("iframe")) return;
     const f = document.createElement("iframe");
-    f.src = NOTIFY_FORM_URL + "?embedded=true"; f.width = "100%"; f.height = "900"; f.style.border = "0";
+    f.src = NOTIFY_FORM_URL + "?embedded=true"; f.width = "100%"; f.height = "1500"; f.style.border = "0";
     f.loading = "lazy"; f.title = t(lang, "js.iframe.title");
     frame.replaceChildren(f);
   } else {
