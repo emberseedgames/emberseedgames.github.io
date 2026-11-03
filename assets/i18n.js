@@ -26,11 +26,10 @@ en: {
 
 
 
-  "home.recent.h2": "Recent",
-  "home.r1.h3": "A writer joins", "home.r1.p": "A scenario writer has joined to work on the spin-off novel and the main game's dialogue. Episode 1 of the spin-off is in preparation.",
-  "home.r2.h3": "First illustrations delivered", "home.r2.p": "The first batch of background and character art for the intro cutscenes has arrived. The image on this page's first screen is one of them.",
-  "home.r3.h3": "Closed test finished", "home.r3.p": "We finished our first closed test with fifteen testers. Its results shaped the rules and screens you'll see now.",
-  "home.recent.more": "All devlog posts →",
+
+
+
+
   "home.notify.h2": "Stay in the loop",
   "home.notify.p": "We'll email you when the demo goes public, the store page opens, or a spin-off episode is released. We don't send often.",
 
@@ -130,11 +129,10 @@ ja: {
 
 
 
-  "home.recent.h2": "最近のお知らせ",
-  "home.r1.h3": "シナリオライターが参加", "home.r1.p": "スピンオフ小説と本編のセリフを一緒に磨くライターが参加しました。スピンオフ第1話を準備中です。",
-  "home.r2.h3": "最初のイラスト納品", "home.r2.p": "イントロのカットシーンに使う背景と人物イラストの第1弾が届きました。このページの最初の画面がそのうちの一枚です。",
-  "home.r3.h3": "クローズドテスト終了", "home.r3.p": "15名のテスターと行った最初のクローズドテストを終えました。その結果が今のルールと画面になっています。",
-  "home.recent.more": "開発日誌をすべて見る →",
+
+
+
+
   "home.notify.h2": "お知らせを受け取る",
   "home.notify.p": "デモ公開、ストアページ開設、スピンオフ連載のお知らせをメールでお届けします。頻繁には送りません。",
 
@@ -234,11 +232,10 @@ zh: {
 
 
 
-  "home.recent.h2": "最近消息",
-  "home.r1.h3": "编剧加入", "home.r1.p": "一位编剧加入，将与我们一起打磨外传小说和正篇台词。外传第 1 话正在准备中。",
-  "home.r2.h3": "首批插画交付", "home.r2.p": "用于序章过场的背景和人物插画第一批已到。本页首屏的画就是其中一张。",
-  "home.r3.h3": "封闭测试结束", "home.r3.p": "与十五位测试者一起完成了第一次封闭测试。它的结果成为了现在的规则和画面。",
-  "home.recent.more": "查看全部开发日志 →",
+
+
+
+
   "home.notify.h2": "订阅消息",
   "home.notify.p": "试玩版公开、商店页面上线、外传连载时，我们会发邮件通知。不会频繁发送。",
 
