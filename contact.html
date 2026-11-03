@@ -3,11 +3,11 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>연락 — Emberseed</title>
-<meta name="description" content="Emberseed 연락처와 소식 알림 신청.">
+<title data-i18n="contact.title">연락 — Emberseed</title>
+<meta name="description" data-i18n-content="contact.desc" content="Emberseed 연락처와 소식 알림 신청.">
 <link rel="icon" href="assets/img/favicon.png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
-<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700&family=Noto+Sans+KR:wght@400;500;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700&family=Noto+Sans+KR:wght@400;500;700&family=Noto+Sans+JP:wght@400;500;700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="assets/css/site.css">
 </head>
 <body>
@@ -15,22 +15,25 @@
 <header class="topbar">
   <div class="wrap">
     <a class="brand" href="index.html"><img src="assets/img/mark_white.png" alt=""> Emberseed</a>
-    <button class="nav-toggle" aria-label="메뉴">메뉴</button>
-    <nav class="nav">
-      <a href="index.html">회사</a>
-      <a href="stalveron.html">STALVERON</a>
-      <a href="devlog.html">데브로그</a>
-      <a href="spinoff.html">스핀오프</a>
-      <a href="contact.html">연락</a>
-    </nav>
+    <div class="right">
+      <nav class="nav">
+        <a href="index.html" data-i18n="nav.company">회사</a>
+        <a href="stalveron.html" data-i18n="nav.game">STALVERON</a>
+        <a href="devlog.html" data-i18n="nav.devlog">데브로그</a>
+        <a href="spinoff.html" data-i18n="nav.spinoff">스핀오프</a>
+        <a href="contact.html" data-i18n="nav.contact">연락</a>
+      </nav>
+      <div class="lang" aria-label="Language"><button data-lang="ko">KO</button><button data-lang="en">EN</button><button data-lang="ja">JA</button></div>
+      <button class="nav-toggle" aria-label="메뉴" data-i18n="nav.menu">메뉴</button>
+    </div>
   </div>
 </header>
 
 <section class="banner" style="background-image:url(assets/img/control_night.jpg)">
   <div class="wrap inner">
     <div class="kicker">Contact</div>
-    <h1>연락</h1>
-    <p class="tag">협업·취재·테스트 문의는 메일로. 소식은 아래에서 신청하세요.</p>
+    <h1 data-i18n="contact.h1">연락</h1>
+    <p class="tag" data-i18n="contact.tag">협업·취재·테스트 문의는 메일로. 소식은 아래에서 신청하세요.</p>
   </div>
 </section>
 
@@ -38,18 +41,18 @@
   <div class="wrap cols">
     <div>
       <div class="kicker">Channels</div>
-      <h2>채널</h2>
+      <h2 data-i18n="contact.channels.h2">채널</h2>
       <ul class="links">
-        <li><span class="k">메일</span><a href="mailto:emberseedgames@gmail.com">emberseedgames@gmail.com</a></li>
+        <li><span class="k" data-i18n="contact.k.mail">메일</span><a href="mailto:emberseedgames@gmail.com">emberseedgames@gmail.com</a></li>
         <li><span class="k">X</span><a href="https://x.com/emberseedgames" target="_blank" rel="noopener">x.com/emberseedgames</a></li>
         <li><span class="k">YouTube</span><a href="https://www.youtube.com/@emberseedgames" target="_blank" rel="noopener">youtube.com/@emberseedgames</a></li>
-        <li><span class="k">회사</span><span>Emberseed · 충남 천안</span></li>
+        <li><span class="k" data-i18n="contact.k.company">회사</span><span data-i18n="contact.company.v">Emberseed · 충남 천안</span></li>
       </ul>
-      <p class="dim" style="margin-top:24px">스트리머·테스터 데모 키 문의, 퍼블리싱·협업 제안은 메일로 주세요. 보통 며칠 안에 답합니다.</p>
+      <p class="dim" style="margin-top:24px" data-i18n="contact.dim">스트리머·테스터 데모 키 문의, 퍼블리싱·협업 제안은 메일로 주세요. 보통 며칠 안에 답합니다.</p>
     </div>
     <div class="notify" id="notify">
-      <h2>소식 알림 신청</h2>
-      <p>데모 공개, 스토어 페이지 오픈, 스핀오프 연재 소식만 보냅니다.</p>
+      <h2 data-i18n="contact.notify.h2">소식 알림 신청</h2>
+      <p data-i18n="contact.notify.p">데모 공개, 스토어 페이지 오픈, 스핀오프 연재 소식만 보냅니다.</p>
       <div data-notify-frame></div>
     </div>
   </div>
@@ -59,7 +62,7 @@
   <div class="wrap">
     <div>
       <a class="brand" href="index.html"><img src="assets/img/logo_white_h.png" alt="Emberseed"></a>
-      <div style="margin-top:8px">© 2026 Emberseed. 천안, 대한민국.</div>
+      <div style="margin-top:8px" data-i18n="footer.copy">© 2026 Emberseed. 천안, 대한민국.</div>
     </div>
     <nav>
       <a href="mailto:emberseedgames@gmail.com">Mail</a>
@@ -69,6 +72,7 @@
   </div>
 </footer>
 
+<script src="assets/i18n.js"></script>
 <script src="assets/site.js"></script>
 </body>
 </html>

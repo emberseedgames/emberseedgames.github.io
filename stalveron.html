@@ -3,13 +3,13 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>STALVERON — Emberseed</title>
-<meta name="description" content="STALVERON. 당신은 미궁을 걷지 않는다. 누가 얼마나 다쳐서 돌아올지를 정할 뿐이다. 관전형 던전 설계 게임, PC(Steam), 2027.">
+<title data-i18n="game.title">STALVERON — Emberseed</title>
+<meta name="description" data-i18n-content="game.desc" content="STALVERON. 당신은 미궁을 걷지 않는다. 누가 얼마나 다쳐서 돌아올지를 정할 뿐이다. 관전형 던전 설계 게임, PC(Steam), 2027.">
 <meta property="og:title" content="STALVERON">
 <meta property="og:image" content="assets/img/control_night.jpg">
 <link rel="icon" href="assets/img/favicon.png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
-<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700&family=Noto+Sans+KR:wght@400;500;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700&family=Noto+Sans+KR:wght@400;500;700&family=Noto+Sans+JP:wght@400;500;700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="assets/css/site.css">
 </head>
 <body>
@@ -17,14 +17,17 @@
 <header class="topbar">
   <div class="wrap">
     <a class="brand" href="index.html"><img src="assets/img/mark_white.png" alt=""> Emberseed</a>
-    <button class="nav-toggle" aria-label="메뉴">메뉴</button>
-    <nav class="nav">
-      <a href="index.html">회사</a>
-      <a href="stalveron.html">STALVERON</a>
-      <a href="devlog.html">데브로그</a>
-      <a href="spinoff.html">스핀오프</a>
-      <a href="contact.html">연락</a>
-    </nav>
+    <div class="right">
+      <nav class="nav">
+        <a href="index.html" data-i18n="nav.company">회사</a>
+        <a href="stalveron.html" data-i18n="nav.game">STALVERON</a>
+        <a href="devlog.html" data-i18n="nav.devlog">데브로그</a>
+        <a href="spinoff.html" data-i18n="nav.spinoff">스핀오프</a>
+        <a href="contact.html" data-i18n="nav.contact">연락</a>
+      </nav>
+      <div class="lang" aria-label="Language"><button data-lang="ko">KO</button><button data-lang="en">EN</button><button data-lang="ja">JA</button></div>
+      <button class="nav-toggle" aria-label="메뉴" data-i18n="nav.menu">메뉴</button>
+    </div>
   </div>
 </header>
 
@@ -32,7 +35,7 @@
   <div class="wrap inner">
     <div class="kicker">Our first game</div>
     <h1 class="en">STALVERON</h1>
-    <p class="tag">당신은 미궁을 걷지 않는다. 누가 얼마나 다쳐서 돌아올지를 정할 뿐이다.</p>
+    <p class="tag" data-i18n="game.banner.tag">당신은 미궁을 걷지 않는다. 누가 얼마나 다쳐서 돌아올지를 정할 뿐이다.</p>
   </div>
 </section>
 
@@ -40,14 +43,14 @@
   <div class="wrap cols">
     <div class="prose">
       <div class="kicker">Story</div>
-      <h2>걷는 도시, 떨어진 별</h2>
-      <p>대재앙 이백 년째. 사람들은 다리 달린 거대한 기계 도시에 올라 끝없는 얼음 위를 걷습니다. 멈추면 뒤따라오는 겨울 폭풍에 삼켜지기 때문입니다. 도시의 심장은 하늘에서 떨어진 ‘별’의 핵. 그 온기가 닿는 곳과 닿지 않는 곳의 차이가 곧 이 세계의 계급입니다.</p>
-      <p>스물일곱 번째 도시, 27구가 새 별 앞에 멈춰 섭니다. 별 안에는 도시를 백 년 더 걷게 할 무언가가 있다고 합니다. 안으로 들어가는 것은 탐사대, 그리고 그들이 무사히 돌아오도록 별 안쪽을 준비하는 것은 관제실의 당신입니다.</p>
-      <p class="quote">보이는 것이 곧 실제 효과입니다. 주사위가 굴러가는 것도, 누가 어디서 다치는지도, 전부 화면에 그대로 보입니다.</p>
+      <h2 data-i18n="game.story.h2">걷는 도시, 떨어진 별</h2>
+      <p data-i18n="game.story.p1">대재앙 이백 년째. 사람들은 다리 달린 거대한 기계 도시에 올라 끝없는 얼음 위를 걷습니다. 멈추면 뒤따라오는 겨울 폭풍에 삼켜지기 때문입니다. 도시의 심장은 하늘에서 떨어진 ‘별’의 핵. 그 온기가 닿는 곳과 닿지 않는 곳의 차이가 곧 이 세계의 계급입니다.</p>
+      <p data-i18n="game.story.p2">스물일곱 번째 도시, 27구가 새 별 앞에 멈춰 섭니다. 별 안에는 도시를 백 년 더 걷게 할 무언가가 있다고 합니다. 안으로 들어가는 것은 탐사대, 그리고 그들이 무사히 돌아오도록 별 안쪽을 준비하는 것은 관제실의 당신입니다.</p>
+      <p class="quote" data-i18n="game.story.quote">보이는 것이 곧 실제 효과입니다. 주사위가 굴러가는 것도, 누가 어디서 다치는지도, 전부 화면에 그대로 보입니다.</p>
     </div>
     <figure class="figure">
       <img src="assets/img/ingame_01.jpg" alt="STALVERON 개발 중 화면 — 별 안쪽 회랑">
-      <figcaption>개발 중 화면. 별 안쪽의 회랑과 설비 배치 단계.</figcaption>
+      <figcaption data-i18n="game.fig.caption">개발 중 화면. 별 안쪽의 회랑과 설비 배치 단계.</figcaption>
     </figure>
   </div>
 </section>
@@ -55,22 +58,22 @@
 <section class="section tight">
   <div class="wrap">
     <div class="kicker">How it plays</div>
-    <h2>이런 게임입니다</h2>
+    <h2 data-i18n="game.how.h2">이런 게임입니다</h2>
     <div class="cols-3">
       <div class="card">
-        <div class="n">01 · 설계</div>
-        <h3>별 안쪽을 짓는다</h3>
-        <p>회랑에 설비를 놓고, 등을 켜고 끄고, 어디를 막고 어디를 열어 둘지 정합니다. 탐사대가 들어오기 전에 끝내야 합니다.</p>
+        <div class="n" data-i18n="game.c1.n">01 · 설계</div>
+        <h3 data-i18n="game.c1.h3">별 안쪽을 짓는다</h3>
+        <p data-i18n="game.c1.p">회랑에 설비를 놓고, 등을 켜고 끄고, 어디를 막고 어디를 열어 둘지 정합니다. 탐사대가 들어오기 전에 끝내야 합니다.</p>
       </div>
       <div class="card">
-        <div class="n">02 · 관전</div>
-        <h3>들어간 뒤엔 보기만 한다</h3>
-        <p>네 사람의 탐사대가 당신이 지은 길을 걷습니다. 직접 조종할 수 없습니다. 판단은 그들이 하고, 결과는 관제실 화면과 무전으로 돌아옵니다.</p>
+        <div class="n" data-i18n="game.c2.n">02 · 관전</div>
+        <h3 data-i18n="game.c2.h3">들어간 뒤엔 보기만 한다</h3>
+        <p data-i18n="game.c2.p">네 사람의 탐사대가 당신이 지은 길을 걷습니다. 직접 조종할 수 없습니다. 판단은 그들이 하고, 결과는 관제실 화면과 무전으로 돌아옵니다.</p>
       </div>
       <div class="card">
-        <div class="n">03 · 주사위</div>
-        <h3>모든 판정이 보인다</h3>
-        <p>공격·회피·방어·기능·응급·결심. 여섯 가지 주사위가 화면 위에서 굴러갑니다. 숨은 확률표는 없습니다.</p>
+        <div class="n" data-i18n="game.c3.n">03 · 주사위</div>
+        <h3 data-i18n="game.c3.h3">모든 판정이 보인다</h3>
+        <p data-i18n="game.c3.p">공격·회피·방어·기능·응급·결심. 여섯 가지 주사위가 화면 위에서 굴러갑니다. 숨은 확률표는 없습니다.</p>
       </div>
     </div>
   </div>
@@ -79,22 +82,22 @@
 <section class="section">
   <div class="wrap">
     <div class="kicker">Characters</div>
-    <h2>27구의 사람들</h2>
+    <h2 data-i18n="game.chars.h2">27구의 사람들</h2>
     <div class="cast">
       <div class="who">
         <div class="pic"><img src="assets/img/portrait_elina.png" alt="엘리나"></div>
-        <h3>엘리나</h3>
-        <p>핵 가까이에서 일해 온 기술자. 이번 별의 관제를 맡는다.</p>
+        <h3 data-i18n="game.elina.h3">엘리나</h3>
+        <p data-i18n="game.elina.p">핵 가까이에서 일해 온 기술자. 이번 별의 관제를 맡는다.</p>
       </div>
       <div class="who">
         <div class="pic"><img src="assets/img/portrait_mira.png" alt="미라"></div>
-        <h3>미라</h3>
-        <p>27구 탐사대장. 별 안으로 들어가는 쪽.</p>
+        <h3 data-i18n="game.mira.h3">미라</h3>
+        <p data-i18n="game.mira.p">27구 탐사대장. 별 안으로 들어가는 쪽.</p>
       </div>
       <div class="who">
         <div class="pic"><img src="assets/img/portrait_berto.png" alt="베르토"></div>
-        <h3>베르토</h3>
-        <p>27구 시장. 도시를 한 해 더 걷게 하는 것이 일.</p>
+        <h3 data-i18n="game.berto.h3">베르토</h3>
+        <p data-i18n="game.berto.p">27구 시장. 도시를 한 해 더 걷게 하는 것이 일.</p>
       </div>
     </div>
   </div>
@@ -104,19 +107,19 @@
   <div class="wrap cols">
     <div>
       <div class="kicker">Release</div>
-      <h2>출시 정보</h2>
+      <h2 data-i18n="game.release.h2">출시 정보</h2>
       <table class="spec">
-        <tr><th>플랫폼</th><td>PC (Steam)</td></tr>
-        <tr><th>출시</th><td>2027년 예정 · 데모 먼저 공개</td></tr>
-        <tr><th>장르</th><td>관전형 던전 설계 · 스토리</td></tr>
-        <tr><th>언어</th><td>한국어 · 영어 등 추가 언어 준비 중</td></tr>
-        <tr><th>개발</th><td>Emberseed · Godot Engine</td></tr>
+        <tr><th data-i18n="game.spec.platform">플랫폼</th><td data-i18n="game.spec.platform.v">PC (Steam)</td></tr>
+        <tr><th data-i18n="game.spec.date">출시</th><td data-i18n="game.spec.date.v">2027년 예정 · 데모 먼저 공개</td></tr>
+        <tr><th data-i18n="game.spec.genre">장르</th><td data-i18n="game.spec.genre.v">관전형 던전 설계 · 스토리</td></tr>
+        <tr><th data-i18n="game.spec.lang">언어</th><td data-i18n="game.spec.lang.v">한국어 · 영어 등 추가 언어 준비 중</td></tr>
+        <tr><th data-i18n="game.spec.dev">개발</th><td data-i18n="game.spec.dev.v">Emberseed · Godot Engine</td></tr>
       </table>
     </div>
     <div class="notify" id="notify">
-      <h2>스토어 페이지가 열리면 알려 드립니다</h2>
-      <p>데모 공개와 위시리스트 오픈 소식을 가장 먼저 받아 보세요.</p>
-      <a class="btn primary" href="contact.html#notify" data-notify>알림 신청</a>
+      <h2 data-i18n="game.notify.h2">스토어 페이지가 열리면 알려 드립니다</h2>
+      <p data-i18n="game.notify.p">데모 공개와 위시리스트 오픈 소식을 가장 먼저 받아 보세요.</p>
+      <a class="btn primary" href="contact.html#notify" data-notify data-i18n="btn.notify">알림 신청</a>
     </div>
   </div>
 </section>
@@ -125,7 +128,7 @@
   <div class="wrap">
     <div>
       <a class="brand" href="index.html"><img src="assets/img/logo_white_h.png" alt="Emberseed"></a>
-      <div style="margin-top:8px">© 2026 Emberseed. 천안, 대한민국.</div>
+      <div style="margin-top:8px" data-i18n="footer.copy">© 2026 Emberseed. 천안, 대한민국.</div>
     </div>
     <nav>
       <a href="mailto:emberseedgames@gmail.com">Mail</a>
@@ -135,6 +138,7 @@
   </div>
 </footer>
 
+<script src="assets/i18n.js"></script>
 <script src="assets/site.js"></script>
 </body>
 </html>

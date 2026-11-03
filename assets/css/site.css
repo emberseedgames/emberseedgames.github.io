@@ -51,6 +51,14 @@ p { margin: 0 0 1em; }
 .nav a:hover { color: var(--ink); background: rgba(52,59,70,.35); }
 .nav a.on { color: var(--amber); }
 .nav-toggle { display: none; }
+.topbar .right { display: flex; align-items: center; gap: 14px; }
+/* 언어 전환기 */
+.lang { display: flex; gap: 2px; border: 1px solid var(--steel-hi); border-radius: 4px; padding: 2px; }
+.lang button { background: none; border: 0; color: var(--ink-dim); font-family: var(--font-en); font-weight: 600; font-size: .78rem; letter-spacing: .06em; padding: 4px 8px; border-radius: 3px; cursor: pointer; }
+.lang button:hover { color: var(--ink); }
+.lang button.on { color: #1a1206; background: var(--amber); }
+html[lang="ja"] body { font-family: "Noto Sans JP", var(--font); }
+html[lang="en"] body { word-break: normal; }
 
 /* ── 히어로(첫 화면) ── */
 .hero {
@@ -167,6 +175,8 @@ p { margin: 0 0 1em; }
   .nav { display: none; position: fixed; top: 64px; left: 0; right: 0; flex-direction: column; background: rgba(12,14,17,.97); padding: 12px 24px 20px; border-bottom: 1px solid var(--steel-hi); }
   .nav.open { display: flex; }
   .nav-toggle { display: inline-block; background: none; border: 1px solid var(--steel-hi); color: var(--ink); border-radius: 4px; padding: 6px 10px; font-size: .9rem; }
+  .topbar .right { gap: 8px; }
+  .lang button { padding: 4px 6px; }
   .section { padding: 56px 0; }
   .notify { padding: 28px 20px; }
   .btn + .btn { margin-left: 0; margin-top: 10px; }
