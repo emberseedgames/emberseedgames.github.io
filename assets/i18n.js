@@ -14,8 +14,6 @@ en: {
   // 회사(index)
   "home.title": "Emberseed — indie game studio",
   "home.desc": "Emberseed is an indie game studio. We're making our first game, STALVERON.",
-  "home.hero.lead": "We're Emberseed, an indie game studio.",
-  "home.hero.sub": "인디 게임 개발팀 엠버시드입니다.",
   "home.about.h2": "About Emberseed",
   "home.about.p1": "A small team that started in summer 2026 in Cheonan, South Korea. One person began with the code and the design; a sound designer and a writer have since joined.",
   "home.about.p2": "Our first game, <strong>STALVERON</strong>, is about guarding the inside of a ‘star’ that fell from the sky. You design the facilities inside the star and watch, from the control room, the people who walk in.",
@@ -116,8 +114,6 @@ ja: {
   // 회사(index)
   "home.title": "Emberseed — インディーゲーム開発チーム",
   "home.desc": "インディーゲーム開発チーム Emberseed。初作品 STALVERON を制作中です。",
-  "home.hero.lead": "インディーゲーム開発チーム Emberseed です。",
-  "home.hero.sub": "We're Emberseed, an indie game development team.",
   "home.about.h2": "Emberseed について",
   "home.about.p1": "2026年夏、韓国・忠清南道の天安で始まった小さな開発チームです。ひとりがコードと設計を担って出発し、いまはサウンドとシナリオを担当するメンバーが加わっています。",
   "home.about.p2": "初作品 <strong>STALVERON</strong> は、空から落ちてきた「星」の内側を守るゲームです。プレイヤーは星の中の設備を設計し、そこへ入ってくる人々を管制室から見守ります。",
@@ -218,8 +214,6 @@ zh: {
   // 회사(index)
   "home.title": "Emberseed — 独立游戏开发团队",
   "home.desc": "独立游戏开发团队 Emberseed。正在制作第一部作品 STALVERON。",
-  "home.hero.lead": "我们是独立游戏开发团队 Emberseed。",
-  "home.hero.sub": "We're Emberseed, an indie game development team.",
   "home.about.h2": "关于 Emberseed",
   "home.about.p1": "2026 年夏天在韩国忠清南道天安成立的小团队。最初由一个人负责代码与设计，现在有负责音效和剧本的成员加入。",
   "home.about.p2": "第一部作品 <strong>STALVERON</strong> 讲述守护一颗从天而降的“星”的内部。玩家设计星内的设施，并在控制室里注视走进去的人们。",
