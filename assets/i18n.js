@@ -6,29 +6,33 @@ en: {
   "nav.team": "Team", "nav.game": "STALVERON", "nav.intro": "About the game", "nav.devlog": "Devlog", "nav.spinoff": "Spin-off novel", "nav.contact": "Contact",
   "team.title": "Team — Emberseed", "team.desc": "About Emberseed, an indie game studio: who, where, and what we're making.",
   "team.tag": "A small studio in Cheonan, South Korea. We're making our first game, STALVERON.",
+  "team.members.h2": "Members",
+  "team.m1.role": "Founder · Development · Design", "team.m1.name": "Name", "team.m1.p": "Writes the code, the game's rules and its screens. Started alone in summer 2026; the team grew from there.",
+  "team.m2.role": "Sound", "team.m2.name": "Name", "team.m2.p": "Sound effects and the texture of sound, from the machinery inside the star to the control-room radio.",
+  "team.m3.role": "Writing", "team.m3.name": "Name", "team.m3.p": "Co-writes the spin-off novel and the main game's dialogue. Joined November 2026.",
+  "team.illust": "Illustration is done with the outside artist Crunchy.",
   "footer.copy": "© 2026 Emberseed. Cheonan, South Korea.",
-  "btn.notify": "Get updates", "btn.notify.news": "Sign up for updates", "btn.x.view": "Follow on X", "btn.x.follow": "Follow on X", "btn.game": "See STALVERON",
+  "btn.notify": "Get updates", "btn.notify.news": "Sign up for updates", "btn.x.view": "Follow on X", "btn.x.follow": "Follow on X",
   "js.mail.subject": "STALVERON updates sign-up", "js.mail.body": "Please send STALVERON news to this email address.",
-  "js.fallback.p": "One email is enough. You can leave the subject empty.", "js.fallback.btn": "Sign up by email", "js.iframe.title": "Sign up for updates",
+  "js.fallback.p": "One email is enough. You can leave the subject empty.", "js.fallback.btn": "Sign up by email", "js.iframe.title": "Sign up for updates"
 
   // 회사(index)
   "home.title": "Emberseed — indie game studio",
   "home.desc": "Emberseed is an indie game studio. We're making our first game, STALVERON.",
-  "home.about.h2": "About Emberseed",
-  "home.about.p1": "A small team that started in summer 2026 in Cheonan, South Korea. One person began with the code and the design; a sound designer and a writer have since joined.",
-  "home.about.p2": "Our first game, <strong>STALVERON</strong>, is about guarding the inside of a ‘star’ that fell from the sky. You design the facilities inside the star and watch, from the control room, the people who walk in.",
-  "home.about.p3": "We want to make games where what you see becomes the story. Not spectacle, but situations that stay with you, where what is shown is what actually happens.",
-  "home.card1.p": "A spectator dungeon-design game · PC (Steam) · aiming for 2027. A demo comes first.",
-  "home.card1.more": "Learn more →",
-  "home.card2.h3": "A team of three",
-  "home.card2.p": "Development & design 1 · Sound 1 · Writing 1. Illustration is done with an outside artist.",
+
+
+
+
+
+
+
   "home.recent.h2": "Recent",
   "home.r1.h3": "A writer joins", "home.r1.p": "A scenario writer has joined to work on the spin-off novel and the main game's dialogue. Episode 1 of the spin-off is in preparation.",
   "home.r2.h3": "First illustrations delivered", "home.r2.p": "The first batch of background and character art for the intro cutscenes has arrived. The image on this page's first screen is one of them.",
   "home.r3.h3": "Closed test finished", "home.r3.p": "We finished our first closed test with fifteen testers. Its results shaped the rules and screens you'll see now.",
   "home.recent.more": "All devlog posts →",
   "home.notify.h2": "Stay in the loop",
-  "home.notify.p": "We'll email you when the demo goes public, the store page opens, or a spin-off episode is released. We don't send often.",
+  "home.notify.p": "We'll email you when the demo goes public, the store page opens, or a spin-off episode is released. We don't send often."
 
   // STALVERON
   "game.title": "STALVERON — Emberseed",
@@ -54,7 +58,7 @@ en: {
   "game.spec.lang": "Languages", "game.spec.lang.v": "Korean · English and more in preparation",
   "game.spec.dev": "Developer", "game.spec.dev.v": "Emberseed · Godot Engine",
   "game.notify.h2": "We'll tell you when the store page opens",
-  "game.notify.p": "Be the first to hear about the demo and the wishlist.",
+  "game.notify.p": "Be the first to hear about the demo and the wishlist."
 
   // 데브로그
   "devlog.title": "Devlog — Emberseed",
@@ -71,7 +75,7 @@ en: {
   "devlog.t4.h3": "Closed test", "devlog.t4.p": "First closed test with fifteen testers. Much of the rules and screens changed here.",
   "devlog.t5.h3": "Emberseed begins", "devlog.t5.p": "Registered as a business in Cheonan. A one-person project became a company.",
   "devlog.notify.h2": "Get notified of new posts",
-  "devlog.notify.p": "By email or on X. We don't send often.",
+  "devlog.notify.p": "By email or on X. We don't send often."
 
   // 스핀오프
   "spin.title": "Spin-off — Emberseed",
@@ -86,7 +90,7 @@ en: {
   "spin.ep1.h3": "Episode 1: in preparation", "spin.ep1.p": "Dawn in the steam greenhouse. A stopped circulation pump and one filter that never came.",
   "spin.ep2.h3": "And then", "spin.ep2.p": "Episodes follow one by one after the first. Release days are announced on X and by email.",
   "spin.notify.h2": "We'll tell you when episode 1 is up",
-  "spin.notify.p": "By email or on X. Serial news only.",
+  "spin.notify.p": "By email or on X. Serial news only."
 
   // 연락
   "contact.title": "Contact — Emberseed",
@@ -106,29 +110,33 @@ ja: {
   "nav.team": "チーム紹介", "nav.game": "STALVERON", "nav.intro": "ゲーム紹介", "nav.devlog": "開発日誌", "nav.spinoff": "スピンオフ小説", "nav.contact": "お問い合わせ",
   "team.title": "チーム紹介 — Emberseed", "team.desc": "インディーゲーム開発チーム Emberseed の紹介。誰が、どこで、何を作っているか。",
   "team.tag": "韓国・天安の小さな開発チーム。初作品 STALVERON を制作中です。",
+  "team.members.h2": "メンバー",
+  "team.m1.role": "代表 · 開発 · 設計", "team.m1.name": "名前", "team.m1.p": "コードとゲームのルール、画面を作ります。2026年夏にひとりで始め、今のチームになりました。",
+  "team.m2.role": "サウンド", "team.m2.name": "名前", "team.m2.p": "効果音と音の質感を担当。星の内側の機械音から管制室の無線まで。",
+  "team.m3.role": "シナリオ", "team.m3.name": "名前", "team.m3.p": "スピンオフ小説と本編のセリフを一緒に書きます。2026年11月参加。",
+  "team.illust": "イラストは外部の作家 Crunchy と共同で制作しています。",
   "footer.copy": "© 2026 Emberseed. 韓国・天安.",
-  "btn.notify": "お知らせを受け取る", "btn.notify.news": "お知らせ登録", "btn.x.view": "Xで見る", "btn.x.follow": "Xをフォロー", "btn.game": "STALVERONを見る",
+  "btn.notify": "お知らせを受け取る", "btn.notify.news": "お知らせ登録", "btn.x.view": "Xで見る", "btn.x.follow": "Xをフォロー",
   "js.mail.subject": "STALVERON お知らせ登録", "js.mail.body": "このメールアドレスに STALVERON のお知らせを送ってください。",
-  "js.fallback.p": "メール一通で十分です。件名は空のままで構いません。", "js.fallback.btn": "メールで登録", "js.iframe.title": "お知らせ登録",
+  "js.fallback.p": "メール一通で十分です。件名は空のままで構いません。", "js.fallback.btn": "メールで登録", "js.iframe.title": "お知らせ登録"
 
   // 회사(index)
   "home.title": "Emberseed — インディーゲーム開発チーム",
   "home.desc": "インディーゲーム開発チーム Emberseed。初作品 STALVERON を制作中です。",
-  "home.about.h2": "Emberseed について",
-  "home.about.p1": "2026年夏、韓国・忠清南道の天安で始まった小さな開発チームです。ひとりがコードと設計を担って出発し、いまはサウンドとシナリオを担当するメンバーが加わっています。",
-  "home.about.p2": "初作品 <strong>STALVERON</strong> は、空から落ちてきた「星」の内側を守るゲームです。プレイヤーは星の中の設備を設計し、そこへ入ってくる人々を管制室から見守ります。",
-  "home.about.p3": "私たちが作りたいのは「見えるものがそのまま物語になるゲーム」です。派手な演出より状況が残るゲーム、見えるものが実際の効果であるゲームを目指します。",
-  "home.card1.p": "観戦型ダンジョン設計ゲーム · PC（Steam）· 2027年発売目標。まずデモを公開します。",
-  "home.card1.more": "詳しく →",
-  "home.card2.h3": "三人で作っています",
-  "home.card2.p": "開発・設計 1 · サウンド 1 · シナリオ 1。イラストは外部の作家と共同で制作しています。",
+
+
+
+
+
+
+
   "home.recent.h2": "最近のお知らせ",
   "home.r1.h3": "シナリオライターが参加", "home.r1.p": "スピンオフ小説と本編のセリフを一緒に磨くライターが参加しました。スピンオフ第1話を準備中です。",
   "home.r2.h3": "最初のイラスト納品", "home.r2.p": "イントロのカットシーンに使う背景と人物イラストの第1弾が届きました。このページの最初の画面がそのうちの一枚です。",
   "home.r3.h3": "クローズドテスト終了", "home.r3.p": "15名のテスターと行った最初のクローズドテストを終えました。その結果が今のルールと画面になっています。",
   "home.recent.more": "開発日誌をすべて見る →",
   "home.notify.h2": "お知らせを受け取る",
-  "home.notify.p": "デモ公開、ストアページ開設、スピンオフ連載のお知らせをメールでお届けします。頻繁には送りません。",
+  "home.notify.p": "デモ公開、ストアページ開設、スピンオフ連載のお知らせをメールでお届けします。頻繁には送りません。"
 
   // STALVERON
   "game.title": "STALVERON — Emberseed",
@@ -154,7 +162,7 @@ ja: {
   "game.spec.lang": "言語", "game.spec.lang.v": "韓国語 · 英語ほか追加言語を準備中",
   "game.spec.dev": "開発", "game.spec.dev.v": "Emberseed · Godot Engine",
   "game.notify.h2": "ストアページが開いたらお知らせします",
-  "game.notify.p": "デモ公開とウィッシュリスト開設の知らせを、いちばん早く受け取れます。",
+  "game.notify.p": "デモ公開とウィッシュリスト開設の知らせを、いちばん早く受け取れます。"
 
   // 데브로그
   "devlog.title": "開発日誌 — Emberseed",
@@ -171,7 +179,7 @@ ja: {
   "devlog.t4.h3": "クローズドテスト", "devlog.t4.p": "15名のテスターと最初のクローズドテスト。ルールと画面の多くがここで変わりました。",
   "devlog.t5.h3": "Emberseed 始動", "devlog.t5.p": "忠清南道・天安で事業者登録。ひとりのプロジェクトが会社になりました。",
   "devlog.notify.h2": "新しい記事が出たらお知らせします",
-  "devlog.notify.p": "メールまたは X で。頻繁には送りません。",
+  "devlog.notify.p": "メールまたは X で。頻繁には送りません。"
 
   // 스핀오프
   "spin.title": "スピンオフ — Emberseed",
@@ -186,7 +194,7 @@ ja: {
   "spin.ep1.h3": "第1話 — 準備中", "spin.ep1.p": "蒸気温室の夜明け。止まった循環ポンプと、届かなかったフィルターひとつ。",
   "spin.ep2.h3": "続き", "spin.ep2.p": "第1話のあと順に公開します。公開日は X とメールでお知らせします。",
   "spin.notify.h2": "第1話が公開されたらお知らせします",
-  "spin.notify.p": "メールまたは X で。連載の知らせだけを送ります。",
+  "spin.notify.p": "メールまたは X で。連載の知らせだけを送ります。"
 
   // 연락
   "contact.title": "お問い合わせ — Emberseed",
@@ -206,29 +214,33 @@ zh: {
   "nav.team": "团队介绍", "nav.game": "STALVERON", "nav.intro": "游戏介绍", "nav.devlog": "开发日志", "nav.spinoff": "外传小说", "nav.contact": "联系",
   "team.title": "团队介绍 — Emberseed", "team.desc": "独立游戏开发团队 Emberseed 介绍：是谁、在哪里、在做什么。",
   "team.tag": "韩国天安的小团队。正在制作第一部作品 STALVERON。",
+  "team.members.h2": "成员",
+  "team.m1.role": "代表 · 开发 · 设计", "team.m1.name": "姓名", "team.m1.p": "负责代码、游戏规则和画面。2026 年夏天一个人开始，发展成现在的团队。",
+  "team.m2.role": "音效", "team.m2.name": "姓名", "team.m2.p": "负责音效和声音质感，从星内部的机械声到控制室的无线电。",
+  "team.m3.role": "剧本", "team.m3.name": "姓名", "team.m3.p": "共同撰写外传小说和正篇台词。2026 年 11 月加入。",
+  "team.illust": "插画与外部画师 Crunchy 合作完成。",
   "footer.copy": "© 2026 Emberseed. 韩国·天安.",
-  "btn.notify": "订阅消息", "btn.notify.news": "订阅消息", "btn.x.view": "在 X 上关注", "btn.x.follow": "关注 X", "btn.game": "了解 STALVERON",
+  "btn.notify": "订阅消息", "btn.notify.news": "订阅消息", "btn.x.view": "在 X 上关注", "btn.x.follow": "关注 X",
   "js.mail.subject": "STALVERON 消息订阅", "js.mail.body": "请将 STALVERON 的消息发送到这个邮箱。",
-  "js.fallback.p": "发一封邮件即可。主题可以留空。", "js.fallback.btn": "用邮件订阅", "js.iframe.title": "订阅消息",
+  "js.fallback.p": "发一封邮件即可。主题可以留空。", "js.fallback.btn": "用邮件订阅", "js.iframe.title": "订阅消息"
 
   // 회사(index)
   "home.title": "Emberseed — 独立游戏开发团队",
   "home.desc": "独立游戏开发团队 Emberseed。正在制作第一部作品 STALVERON。",
-  "home.about.h2": "关于 Emberseed",
-  "home.about.p1": "2026 年夏天在韩国忠清南道天安成立的小团队。最初由一个人负责代码与设计，现在有负责音效和剧本的成员加入。",
-  "home.about.p2": "第一部作品 <strong>STALVERON</strong> 讲述守护一颗从天而降的“星”的内部。玩家设计星内的设施，并在控制室里注视走进去的人们。",
-  "home.about.p3": "我们想做的是“所见即故事”的游戏。比起华丽的演出，更追求留下情境的游戏，看到的就是实际效果的游戏。",
-  "home.card1.p": "观战型地牢设计游戏 · PC（Steam）· 目标 2027 年发售。先公开试玩版。",
-  "home.card1.more": "了解更多 →",
-  "home.card2.h3": "三个人在做",
-  "home.card2.p": "开发·设计 1 · 音效 1 · 剧本 1。插画与外部画师合作。",
+
+
+
+
+
+
+
   "home.recent.h2": "最近消息",
   "home.r1.h3": "编剧加入", "home.r1.p": "一位编剧加入，将与我们一起打磨外传小说和正篇台词。外传第 1 话正在准备中。",
   "home.r2.h3": "首批插画交付", "home.r2.p": "用于序章过场的背景和人物插画第一批已到。本页首屏的画就是其中一张。",
   "home.r3.h3": "封闭测试结束", "home.r3.p": "与十五位测试者一起完成了第一次封闭测试。它的结果成为了现在的规则和画面。",
   "home.recent.more": "查看全部开发日志 →",
   "home.notify.h2": "订阅消息",
-  "home.notify.p": "试玩版公开、商店页面上线、外传连载时，我们会发邮件通知。不会频繁发送。",
+  "home.notify.p": "试玩版公开、商店页面上线、外传连载时，我们会发邮件通知。不会频繁发送。"
 
   // STALVERON
   "game.title": "STALVERON — Emberseed",
@@ -254,7 +266,7 @@ zh: {
   "game.spec.lang": "语言", "game.spec.lang.v": "韩语 · 英语等更多语言准备中",
   "game.spec.dev": "开发", "game.spec.dev.v": "Emberseed · Godot Engine",
   "game.notify.h2": "商店页面上线时通知您",
-  "game.notify.p": "第一时间收到试玩版公开和愿望单开放的消息。",
+  "game.notify.p": "第一时间收到试玩版公开和愿望单开放的消息。"
 
   // 데브로그
   "devlog.title": "开发日志 — Emberseed",
@@ -271,7 +283,7 @@ zh: {
   "devlog.t4.h3": "封闭测试", "devlog.t4.p": "与十五位测试者的第一次封闭测试。规则和画面的很多部分在这里改变。",
   "devlog.t5.h3": "Emberseed 启动", "devlog.t5.p": "在忠清南道天安完成工商登记。一个人的项目变成了公司。",
   "devlog.notify.h2": "有新文章时通知您",
-  "devlog.notify.p": "邮件或 X。不会频繁发送。",
+  "devlog.notify.p": "邮件或 X。不会频繁发送。"
 
   // 스핀오프
   "spin.title": "外传 — Emberseed",
@@ -286,7 +298,7 @@ zh: {
   "spin.ep1.h3": "第 1 话 — 准备中", "spin.ep1.p": "蒸汽温室的黎明。停转的循环泵，和一个没有送到的滤芯。",
   "spin.ep2.h3": "接下来", "spin.ep2.p": "第 1 话之后依次发布。发布日会在 X 和邮件通知。",
   "spin.notify.h2": "第 1 话发布时通知您",
-  "spin.notify.p": "邮件或 X。只发连载消息。",
+  "spin.notify.p": "邮件或 X。只发连载消息。"
 
   // 연락
   "contact.title": "联系 — Emberseed",
