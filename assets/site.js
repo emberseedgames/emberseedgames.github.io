@@ -83,10 +83,13 @@ document.addEventListener("DOMContentLoaded", () => {
   }
   document.querySelectorAll(".lang-menu button").forEach(b => b.addEventListener("click", () => { applyLang(b.dataset.lang); closeLang(); }));
   applyLang(pickLang());
-  // 모바일 메뉴
-  const tg = document.querySelector(".nav-toggle"), nav = document.querySelector(".nav");
-  if (tg && nav) tg.addEventListener("click", () => nav.classList.toggle("open"));
+  // ☰ 서랍 메뉴
+  const mb = document.querySelector(".menu-btn"), drawer = document.querySelector(".drawer");
+  const setDrawer = o => { document.body.classList.toggle("drawer-open", o); if (mb) mb.setAttribute("aria-expanded", String(o)); if (drawer) drawer.setAttribute("aria-hidden", String(!o)); };
+  if (mb) mb.addEventListener("click", () => setDrawer(!document.body.classList.contains("drawer-open")));
+  document.querySelectorAll(".drawer-close, .drawer-dim").forEach(el => el.addEventListener("click", () => setDrawer(false)));
+  document.addEventListener("keydown", e => { if (e.key === "Escape") setDrawer(false); });
   // 현재 페이지 표시
   const here = location.pathname.split("/").pop() || "index.html";
-  document.querySelectorAll(".nav a").forEach(a => { if (a.getAttribute("href") === here) a.classList.add("on"); });
+  document.querySelectorAll(".drawer-nav a").forEach(a => { if (a.getAttribute("href") === here) a.classList.add("on"); });
 });

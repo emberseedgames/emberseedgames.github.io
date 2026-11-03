@@ -3,7 +3,9 @@
 const I18N = {
 en: {
   // 공통
-  "nav.company": "Company", "nav.game": "STALVERON", "nav.devlog": "Devlog", "nav.spinoff": "Spin-off", "nav.contact": "Contact", "nav.menu": "Menu",
+  "nav.team": "Team", "nav.game": "STALVERON", "nav.devlog": "Devlog", "nav.spinoff": "Spin-off novel", "nav.contact": "Contact",
+  "team.title": "Team — Emberseed", "team.desc": "About Emberseed, an indie game studio: who, where, and what we're making.",
+  "team.tag": "A small studio in Cheonan, South Korea. We're making our first game, STALVERON.",
   "footer.copy": "© 2026 Emberseed. Cheonan, South Korea.",
   "btn.notify": "Get updates", "btn.notify.news": "Sign up for updates", "btn.x.view": "Follow on X", "btn.x.follow": "Follow on X", "btn.game": "See STALVERON",
   "js.mail.subject": "STALVERON updates sign-up", "js.mail.body": "Please send STALVERON news to this email address.",
@@ -101,7 +103,9 @@ en: {
 },
 ja: {
   // 공통
-  "nav.company": "会社", "nav.game": "STALVERON", "nav.devlog": "開発日誌", "nav.spinoff": "スピンオフ", "nav.contact": "お問い合わせ", "nav.menu": "メニュー",
+  "nav.team": "チーム紹介", "nav.game": "STALVERON", "nav.devlog": "開発日誌", "nav.spinoff": "スピンオフ小説", "nav.contact": "お問い合わせ",
+  "team.title": "チーム紹介 — Emberseed", "team.desc": "インディーゲーム開発チーム Emberseed の紹介。誰が、どこで、何を作っているか。",
+  "team.tag": "韓国・天安の小さな開発チーム。初作品 STALVERON を制作中です。",
   "footer.copy": "© 2026 Emberseed. 韓国・天安.",
   "btn.notify": "お知らせを受け取る", "btn.notify.news": "お知らせ登録", "btn.x.view": "Xで見る", "btn.x.follow": "Xをフォロー", "btn.game": "STALVERONを見る",
   "js.mail.subject": "STALVERON お知らせ登録", "js.mail.body": "このメールアドレスに STALVERON のお知らせを送ってください。",
@@ -199,7 +203,9 @@ ja: {
 },
 zh: {
   // 공통
-  "nav.company": "公司", "nav.game": "STALVERON", "nav.devlog": "开发日志", "nav.spinoff": "外传", "nav.contact": "联系", "nav.menu": "菜单",
+  "nav.team": "团队介绍", "nav.game": "STALVERON", "nav.devlog": "开发日志", "nav.spinoff": "外传小说", "nav.contact": "联系",
+  "team.title": "团队介绍 — Emberseed", "team.desc": "独立游戏开发团队 Emberseed 介绍：是谁、在哪里、在做什么。",
+  "team.tag": "韩国天安的小团队。正在制作第一部作品 STALVERON。",
   "footer.copy": "© 2026 Emberseed. 韩国·天安.",
   "btn.notify": "订阅消息", "btn.notify.news": "订阅消息", "btn.x.view": "在 X 上关注", "btn.x.follow": "关注 X", "btn.game": "了解 STALVERON",
   "js.mail.subject": "STALVERON 消息订阅", "js.mail.body": "请将 STALVERON 的消息发送到这个邮箱。",
