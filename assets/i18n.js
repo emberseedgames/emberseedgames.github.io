@@ -12,14 +12,13 @@ en: {
   "team.m3.role": "Writer", "team.m3.p": "Assistant writer.",
   "team.m4.role": "Illustration", "team.m4.p": "Draws the backgrounds and character illustrations.",
   "footer.copy": "© 2026 Emberseed. Cheonan, South Korea.",
-  "btn.notify": "Get updates", "btn.notify.news": "Sign up for updates", "btn.x.view": "Follow on X", "btn.x.follow": "Follow on X",
+  "btn.notify": "Get updates", "btn.notify.news": "Sign up for updates",
   "js.mail.subject": "STALVERON updates sign-up", "js.mail.body": "Please send STALVERON news to this email address.",
   "js.fallback.p": "One email is enough. You can leave the subject empty.", "js.fallback.btn": "Sign up by email", "js.iframe.title": "Sign up for updates",
 
   // 회사(index)
   "home.title": "Emberseed — indie game studio",
   "home.desc": "Emberseed is an indie game studio. We're making our first game, STALVERON.",
-
 
 
 
@@ -115,14 +114,13 @@ ja: {
   "team.m3.role": "シナリオライター", "team.m3.p": "サブシナリオ担当です。",
   "team.m4.role": "イラスト", "team.m4.p": "背景と人物のイラストを描いています。",
   "footer.copy": "© 2026 Emberseed. 韓国・天安.",
-  "btn.notify": "お知らせを受け取る", "btn.notify.news": "お知らせ登録", "btn.x.view": "Xで見る", "btn.x.follow": "Xをフォロー",
+  "btn.notify": "お知らせを受け取る", "btn.notify.news": "お知らせ登録",
   "js.mail.subject": "STALVERON お知らせ登録", "js.mail.body": "このメールアドレスに STALVERON のお知らせを送ってください。",
   "js.fallback.p": "メール一通で十分です。件名は空のままで構いません。", "js.fallback.btn": "メールで登録", "js.iframe.title": "お知らせ登録",
 
   // 회사(index)
   "home.title": "Emberseed — インディーゲーム開発チーム",
   "home.desc": "インディーゲーム開発チーム Emberseed。初作品 STALVERON を制作中です。",
-
 
 
 
@@ -218,14 +216,13 @@ zh: {
   "team.m3.role": "剧本作者", "team.m3.p": "副剧本作者。",
   "team.m4.role": "插画", "team.m4.p": "绘制背景和人物插画。",
   "footer.copy": "© 2026 Emberseed. 韩国·天安.",
-  "btn.notify": "订阅消息", "btn.notify.news": "订阅消息", "btn.x.view": "在 X 上关注", "btn.x.follow": "关注 X",
+  "btn.notify": "订阅消息", "btn.notify.news": "订阅消息",
   "js.mail.subject": "STALVERON 消息订阅", "js.mail.body": "请将 STALVERON 的消息发送到这个邮箱。",
   "js.fallback.p": "发一封邮件即可。主题可以留空。", "js.fallback.btn": "用邮件订阅", "js.iframe.title": "订阅消息",
 
   // 회사(index)
   "home.title": "Emberseed — 独立游戏开发团队",
   "home.desc": "独立游戏开发团队 Emberseed。正在制作第一部作品 STALVERON。",
-
 
 
 
