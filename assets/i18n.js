@@ -21,7 +21,6 @@ en: {
   "home.desc": "Emberseed is an indie game studio. We're making our first game, STALVERON.",
 
 
-
   "home.notify.p": "We'll email you when there's news.",
 
   // STALVERON
@@ -53,7 +52,7 @@ en: {
   "game.spec.date": "Release", "game.spec.date.v": "Early Access Q4 2027<br>Full release Q1 2028",
   "game.spec.genre": "Genre", "game.spec.genre.v": "Spectator dungeon design · narrative",
   "game.spec.lang": "Languages", "game.spec.lang.v": "Korean · English and more in preparation",
-  "game.notify.p": "We'll let you know when the store page opens.",
+
 
   // 데브로그
   "devlog.title": "Devlog — Emberseed",
@@ -120,7 +119,6 @@ ja: {
   "home.desc": "インディーゲーム開発チーム Emberseed。初作品 STALVERON を制作中です。",
 
 
-
   "home.notify.p": "新しいお知らせがあればメールでお届けします。",
 
   // STALVERON
@@ -152,7 +150,7 @@ ja: {
   "game.spec.date": "発売", "game.spec.date.v": "アーリーアクセス 2027年第4四半期<br>正式リリース 2028年第1四半期",
   "game.spec.genre": "ジャンル", "game.spec.genre.v": "観戦型ダンジョン設計 · ナラティブ",
   "game.spec.lang": "言語", "game.spec.lang.v": "韓国語 · 英語ほか追加言語を準備中",
-  "game.notify.p": "ストアページが開いたらお知らせします。",
+
 
   // 데브로그
   "devlog.title": "開発日誌 — Emberseed",
@@ -219,7 +217,6 @@ zh: {
   "home.desc": "独立游戏开发团队 Emberseed。正在制作第一部作品 STALVERON。",
 
 
-
   "home.notify.p": "有新消息时，我们会通过邮件通知您。",
 
   // STALVERON
@@ -251,7 +248,7 @@ zh: {
   "game.spec.date": "发售", "game.spec.date.v": "抢先体验 2027 年第 4 季度<br>正式发售 2028 年第 1 季度",
   "game.spec.genre": "类型", "game.spec.genre.v": "观战型地牢设计 · 叙事",
   "game.spec.lang": "语言", "game.spec.lang.v": "韩语 · 英语等更多语言准备中",
-  "game.notify.p": "商店页面上线时通知您。",
+
 
   // 데브로그
   "devlog.title": "开发日志 — Emberseed",
