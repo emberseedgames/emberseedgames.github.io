@@ -56,15 +56,15 @@ en: {
   "devlog.title": "Devlog — Emberseed",
   "devlog.desc": "STALVERON development notes. The road so far and the posts to come.",
   "devlog.h1": "Devlog",
-  "devlog.posts.h2": "Posts",
-  "devlog.p1.meta": "Next post · November 2026", "devlog.p1.h3": "Devlog #1: Dawn at the star-site", "devlog.p1.p": "The day the first illustration arrived. What we decided on the way from one painting to the game's first screen.", "devlog.p1.link": "We'll announce it on X first →",
-  "devlog.p2.meta": "2026-09-06 · first community post", "devlog.p2.h3": "A spectator trap game, made alone", "devlog.p2.p": "I opened with placing facilities and switching on lights, and readers took it for a ‘dungeon management game’. From the next post on, I'll open with people: the four in the expedition, their deaths, and what you see from the control room.",
-  "devlog.sofar.h2": "So far",
-  "devlog.t1.h3": "A writer joins", "devlog.t1.p": "Working together on six spin-off episodes and the main game's dialogue.",
-  "devlog.t2.h3": "Company logo · first illustrations", "devlog.t2.p": "The Emberseed logo was finalized, and the first batch of intro-cutscene backgrounds and characters arrived.",
-  "devlog.t3.h3": "Contest entry · channels opened", "devlog.t3.p": "Entered our first contest with the demo build. Opened the X and YouTube channels.",
-  "devlog.t4.h3": "Closed test", "devlog.t4.p": "First closed test with fifteen testers. Much of the rules and screens changed here.",
-  "devlog.t5.h3": "Emberseed begins", "devlog.t5.p": "Registered as a business in Cheonan. A one-person project became a company.",
+  "devlog.soon": "Coming soon", "devlog.p2.where": "First community post",
+"devlog.p1.h3": "Devlog #1: Dawn at the star-site",
+"devlog.p2.h3": "A spectator trap game, made alone",
+
+
+
+
+
+
 
 
 
@@ -151,15 +151,15 @@ ja: {
   "devlog.title": "開発日誌 — Emberseed",
   "devlog.desc": "STALVERON の開発記録。これまでの道のりと、これからの記事。",
   "devlog.h1": "開発日誌",
-  "devlog.posts.h2": "記事",
-  "devlog.p1.meta": "次の記事 · 2026年11月", "devlog.p1.h3": "第1回 開発日誌 — 星の地の夜明け", "devlog.p1.p": "最初のイラストが届いた日の話。一枚の絵がゲームの最初の画面になるまでに、何を決めたかを書きます。", "devlog.p1.link": "公開したら X で先にお知らせします →",
-  "devlog.p2.meta": "2026-09-06 · コミュニティへの最初の投稿", "devlog.p2.h3": "ひとりで作る観戦型トラップゲーム", "devlog.p2.p": "設備を敷き灯りを点ける話から始めたら、「ダンジョン管理ゲーム」と読まれました。次の記事からは人から始めます。探査隊の四人、彼らの死、管制室から見えるものから。",
-  "devlog.sofar.h2": "これまで",
-  "devlog.t1.h3": "シナリオライターが参加", "devlog.t1.p": "スピンオフ小説六話と本編のセリフを一緒に磨きます。",
-  "devlog.t2.h3": "会社ロゴ · 最初のイラスト", "devlog.t2.p": "Emberseed のロゴが決まり、イントロのカットシーン用の背景・人物イラスト第1弾が届きました。",
-  "devlog.t3.h3": "コンテスト応募 · チャンネル開設", "devlog.t3.p": "デモビルドで最初のコンテストに応募しました。X と YouTube のチャンネルを開きました。",
-  "devlog.t4.h3": "クローズドテスト", "devlog.t4.p": "15名のテスターと最初のクローズドテスト。ルールと画面の多くがここで変わりました。",
-  "devlog.t5.h3": "Emberseed 始動", "devlog.t5.p": "忠清南道・天安で事業者登録。ひとりのプロジェクトが会社になりました。",
+  "devlog.soon": "近日公開", "devlog.p2.where": "コミュニティ初投稿",
+"devlog.p1.h3": "第1回 開発日誌 — 星の地の夜明け",
+"devlog.p2.h3": "ひとりで作る観戦型トラップゲーム",
+
+
+
+
+
+
 
 
 
@@ -246,15 +246,15 @@ zh: {
   "devlog.title": "开发日志 — Emberseed",
   "devlog.desc": "STALVERON 开发记录。走过的路和将要写的文章。",
   "devlog.h1": "开发日志",
-  "devlog.posts.h2": "文章",
-  "devlog.p1.meta": "下一篇 · 2026 年 11 月", "devlog.p1.h3": "第 1 篇开发日志 — 星之地的黎明", "devlog.p1.p": "第一张插画到达那天的故事。从一张画到游戏首屏，我们决定了什么。", "devlog.p1.link": "发布时会先在 X 上通知 →",
-  "devlog.p2.meta": "2026-09-06 · 发在社区的第一篇", "devlog.p2.h3": "一个人做的观战型陷阱游戏", "devlog.p2.p": "从铺设施、开灯写起，结果被读成了“地牢经营游戏”。从下一篇起，从人写起：探索队四人、他们的死、从控制室看到的东西。",
-  "devlog.sofar.h2": "至今为止",
-  "devlog.t1.h3": "编剧加入", "devlog.t1.p": "一起打磨外传小说六话和正篇台词。",
-  "devlog.t2.h3": "公司标志 · 首批插画", "devlog.t2.p": "Emberseed 的标志定稿，序章过场的背景·人物插画第一批到达。",
-  "devlog.t3.h3": "参赛 · 开设频道", "devlog.t3.p": "用试玩版报名了第一个比赛。开设了 X 和 YouTube 频道。",
-  "devlog.t4.h3": "封闭测试", "devlog.t4.p": "与十五位测试者的第一次封闭测试。规则和画面的很多部分在这里改变。",
-  "devlog.t5.h3": "Emberseed 启动", "devlog.t5.p": "在忠清南道天安完成工商登记。一个人的项目变成了公司。",
+  "devlog.soon": "即将发布", "devlog.p2.where": "社区首帖",
+"devlog.p1.h3": "第 1 篇开发日志 — 星之地的黎明",
+"devlog.p2.h3": "一个人做的观战型陷阱游戏",
+
+
+
+
+
+
 
 
 
