@@ -38,6 +38,9 @@ en: {
 
 
 
+  "game.hub.h2": "The control tent",
+  "game.hub.p1": "Between expeditions, all the preparation happens here. Check on the team that came back, upgrade facilities, and choose what to do before the next run.",
+  "game.hub.p2": "What you do first, and what you put off, changes the next run. There is never enough time.",
   "game.play.h2": "Build the inside of the star, then watch",
   "game.play.p1": "Place facilities in the galleries, switch lights on and off, decide what to block and what to leave open. All before the expedition walks in.",
   "game.play.p2": "A team of four walks the paths you built. You can't control them. They make the calls; the results come back through the control-room screen and the radio.",
@@ -141,6 +144,9 @@ ja: {
 
 
 
+  "game.hub.h2": "管制テント",
+  "game.hub.p1": "探査と探査のあいだ、準備はすべてここで行います。戻ってきた探査隊の状態を見て、設備を改良し、次の探査の前に何をするかを選びます。",
+  "game.hub.p2": "何を先にして何を後回しにするかが、次の一戦を変えます。時間はいつも足りません。",
   "game.play.h2": "星の内側を造り、見守る",
   "game.play.p1": "回廊に設備を置き、灯りを点けたり消したり、どこを塞ぎどこを開けておくかを決めます。探査隊が入ってくる前に終えなければなりません。",
   "game.play.p2": "四人の探査隊が、あなたの造った道を歩きます。直接操作はできません。判断は彼らがし、結果は管制室の画面と無線で返ってきます。",
@@ -244,6 +250,9 @@ zh: {
 
 
 
+  "game.hub.h2": "控制帐篷",
+  "game.hub.p1": "在两次探索之间，所有准备都在这里完成。查看归来探索队的状态，升级设施，并选择下次探索前要做的事。",
+  "game.hub.p2": "先做什么、推后什么，会改变下一局。时间永远不够。",
   "game.play.h2": "建造星的内部，然后观战",
   "game.play.p1": "在回廊里放置设施，开灯关灯，决定哪里封住、哪里留开。必须在探索队进来之前完成。",
   "game.play.p2": "四人探索队走你建的路。你不能直接操控。判断由他们做，结果通过控制室画面和无线电传回来。",
