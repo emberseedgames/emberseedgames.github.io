@@ -162,6 +162,7 @@ body.home .footer .wrap { justify-content: flex-start; max-width: none; padding:
 .card h3 { color: var(--ink); }
 .card p { color: var(--ink-dim); font-size: .97rem; margin: 0; }
 .card .n { color: var(--amber); font-family: var(--font-en); font-weight: 600; font-size: .8rem; letter-spacing: .15em; margin-bottom: 8px; }
+.card .name small { display: block; color: var(--ink-dim); font-family: var(--font-en); font-weight: 500; font-size: .8rem; letter-spacing: .04em; margin-top: 2px; }   /* 이름 = 한글 + 영어 고정(언어와 무관) */
 
 /* 그림 */
 .figure { border: 1px solid var(--steel-hi); border-radius: 6px; overflow: hidden; background: var(--steel-lo); }
