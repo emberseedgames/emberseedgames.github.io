@@ -90,7 +90,7 @@ en: {
   "notify.h1": "Sign up for updates", "notify.tag": "We'll email you when there's news.",
   "contact.channels.h2": "Channels",
   "contact.k.mail": "Email", "contact.k.company": "Company", "contact.company.v": "Emberseed · Cheonan, South Korea",
-  "contact.dim": "Streamer and tester demo-key requests, publishing and collaboration proposals: please email. We usually reply within a few days.",
+  "contact.dim": "Streamer and tester demo-key requests, publishing and collaboration proposals: please email.",
 },
 ja: {
   // 공통
@@ -181,7 +181,7 @@ ja: {
   "notify.h1": "お知らせ登録", "notify.tag": "新しいお知らせがあればメールでお届けします。",
   "contact.channels.h2": "チャンネル",
   "contact.k.mail": "メール", "contact.k.company": "会社", "contact.company.v": "Emberseed · 韓国・天安",
-  "contact.dim": "配信者・テスター向けデモキーのお問い合わせ、パブリッシング・協業のご提案はメールでお願いします。通常、数日以内にお返事します。",
+  "contact.dim": "配信者・テスター向けデモキーのお問い合わせ、パブリッシング・協業のご提案はメールでお願いします。",
 },
 zh: {
   // 공통
@@ -272,6 +272,6 @@ zh: {
   "notify.h1": "订阅消息", "notify.tag": "有新消息时，我们会通过邮件通知您。",
   "contact.channels.h2": "渠道",
   "contact.k.mail": "邮件", "contact.k.company": "公司", "contact.company.v": "Emberseed · 韩国天安",
-  "contact.dim": "主播·测试者的试玩码咨询，发行·合作提案请发邮件。通常几天内回复。",
+  "contact.dim": "主播·测试者的试玩码咨询，发行·合作提案请发邮件。",
 }
 };
