@@ -97,6 +97,9 @@ document.addEventListener("DOMContentLoaded", () => {
   document.querySelectorAll(".drawer-nav .group-head").forEach(h => h.addEventListener("click", () => {
     const g = h.parentElement, o = g.classList.toggle("open"); h.setAttribute("aria-expanded", String(o));
   }));
+  // 첫 화면 무대 배율 = 창을 덮는 쪽(max) · 폰(≤820)은 무대 해제라 안 쓴다
+  const stage = document.querySelector(".hero .stage");
+  if (stage) { const fit = () => stage.style.setProperty("--s", String(Math.max(innerWidth / 1920, innerHeight / 1080))); addEventListener("resize", fit); fit(); }
   // 읽기 진행바(스핀오프 읽기 페이지)
   const bar = document.querySelector(".progress span");
   if (bar) { const upd = () => { const h = document.documentElement; const d = h.scrollHeight - h.clientHeight; bar.style.width = (d > 0 ? Math.min(100, h.scrollTop / d * 100) : 0) + "%"; }; document.addEventListener("scroll", upd, { passive: true }); upd(); }
