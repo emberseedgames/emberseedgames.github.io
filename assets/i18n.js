@@ -74,8 +74,7 @@ en: {
   "spin.desc": "STALVERON spin-off novel. Five years before the game, in the steam greenhouse of walking city District 27.",
   "spin.h1": "Spin-off novel", "spin.wt": "(working title)",
 
-
-  "spin.list.h2": "Episodes", "spin.ep1.n": "Episode 1", "spin.ep1.when": "Nov 2026", "spin.ep1.soon": "Episode 1 is in preparation. We'll let you know by email when it's up.",
+"spin.ep1.n": "Episode 1", "spin.ep1.when": "Nov 2026", "spin.ep1.soon": "Episode 1 is in preparation. We'll let you know by email when it's up.",
   "read.prev": "← Previous", "read.list": "Episodes", "read.next": "Next →",
   "spin.ep1.h3": "In preparation",
 
@@ -168,8 +167,7 @@ ja: {
   "spin.desc": "STALVERON スピンオフ小説。本編の5年前、歩く都市27区の蒸気温室で。",
   "spin.h1": "スピンオフ小説", "spin.wt": "（仮題）",
 
-
-  "spin.list.h2": "話数", "spin.ep1.n": "第1話", "spin.ep1.when": "2026.11", "spin.ep1.soon": "第1話は準備中です。公開したらお知らせメールでお伝えします。",
+"spin.ep1.n": "第1話", "spin.ep1.when": "2026.11", "spin.ep1.soon": "第1話は準備中です。公開したらお知らせメールでお伝えします。",
   "read.prev": "← 前の話", "read.list": "目次", "read.next": "次の話 →",
   "spin.ep1.h3": "準備中",
 
@@ -262,8 +260,7 @@ zh: {
   "spin.desc": "STALVERON 外传小说。正篇五年前，行走城市 27 区的蒸汽温室。",
   "spin.h1": "外传小说", "spin.wt": "（暂定名）",
 
-
-  "spin.list.h2": "章节", "spin.ep1.n": "第 1 话", "spin.ep1.when": "2026.11", "spin.ep1.soon": "第 1 话准备中。发布后我们会通过邮件通知。",
+"spin.ep1.n": "第 1 话", "spin.ep1.when": "2026.11", "spin.ep1.soon": "第 1 话准备中。发布后我们会通过邮件通知。",
   "read.prev": "← 上一话", "read.list": "目录", "read.next": "下一话 →",
   "spin.ep1.h3": "准备中",
 
