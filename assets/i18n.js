@@ -73,9 +73,8 @@ en: {
   "spin.title": "Spin-off — Emberseed",
   "spin.desc": "STALVERON spin-off novel. Five years before the game, in the steam greenhouse of walking city District 27.",
   "spin.h1": "Spin-off novel", "spin.wt": "(working title)",
-  "spin.p1": "Walking city District 27 has been crossing an endless plain for a month. A young mechanic from the lower-deck steam greenhouse goes down to the cellar every night and writes down, as numbers, the faint pulse rising from beneath his feet. He doesn't know what is pulsing. Only that it has grown clearer since they entered the plain.",
-  "spin.p2": "In that greenhouse there is a night-shift worker with three children, and on the next team, someone he knows only by face. They know nothing of each other's lives. They could have. They simply never asked.",
-  "spin.dim": "Six episodes planned. We publish episode 1, see how it lands, then write the next.",
+
+
   "spin.list.h2": "Episodes", "spin.ep1.n": "Episode 1", "spin.ep1.when": "Nov 2026", "spin.ep1.soon": "Episode 1 is in preparation. We'll let you know by email when it's up.",
   "read.prev": "← Previous", "read.list": "Episodes", "read.next": "Next →",
   "spin.ep1.h3": "In preparation",
@@ -168,9 +167,8 @@ ja: {
   "spin.title": "スピンオフ — Emberseed",
   "spin.desc": "STALVERON スピンオフ小説。本編の5年前、歩く都市27区の蒸気温室で。",
   "spin.h1": "スピンオフ小説", "spin.wt": "（仮題）",
-  "spin.p1": "歩く都市27区は、ひと月のあいだ果てしない平原を渡っています。下層の蒸気温室で働く若い整備工は、夜ごと地下室に降りて、足元から上ってくるかすかな鼓動を数字に書き留めます。何の鼓動かは分かりません。ただ、平原に入ってから少しずつはっきりしてきています。",
-  "spin.p2": "その温室には子どもが三人いる当直の作業員がいて、隣の班には顔だけ知っている人がいます。互いの暮らしは知りません。知ることはできたのに、尋ねなかっただけです。",
-  "spin.dim": "基本は六話。第1話を公開して反応を見てから、次の話を書きます。",
+
+
   "spin.list.h2": "話数", "spin.ep1.n": "第1話", "spin.ep1.when": "2026.11", "spin.ep1.soon": "第1話は準備中です。公開したらお知らせメールでお伝えします。",
   "read.prev": "← 前の話", "read.list": "目次", "read.next": "次の話 →",
   "spin.ep1.h3": "準備中",
@@ -263,9 +261,8 @@ zh: {
   "spin.title": "外传 — Emberseed",
   "spin.desc": "STALVERON 外传小说。正篇五年前，行走城市 27 区的蒸汽温室。",
   "spin.h1": "外传小说", "spin.wt": "（暂定名）",
-  "spin.p1": "行走城市 27 区已经在无尽的平原上走了一个月。在下层蒸汽温室工作的年轻机修工，每晚下到地下室，把脚下传来的微弱搏动记成数字。他不知道那是什么的搏动。只知道进入平原之后，它越来越清晰。",
-  "spin.p2": "那座温室里有一位带着三个孩子的值班工人，隔壁班组有一个只认得脸的人。彼此的生活一无所知。本来可以知道的，只是没有问过。",
-  "spin.dim": "基本六话。先发第 1 话，看反应再写下一话。",
+
+
   "spin.list.h2": "章节", "spin.ep1.n": "第 1 话", "spin.ep1.when": "2026.11", "spin.ep1.soon": "第 1 话准备中。发布后我们会通过邮件通知。",
   "read.prev": "← 上一话", "read.list": "目录", "read.next": "下一话 →",
   "spin.ep1.h3": "准备中",
