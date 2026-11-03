@@ -76,10 +76,11 @@ en: {
   "spin.premise.h2": "2396, on the ice of the North Pacific",
   "spin.p1": "Walking city District 27 has been crossing an endless plain for a month. A young mechanic from the lower-deck steam greenhouse goes down to the cellar every night and writes down, as numbers, the faint pulse rising from beneath his feet. He doesn't know what is pulsing. Only that it has grown clearer since they entered the plain.",
   "spin.p2": "In that greenhouse there is a night-shift worker with three children, and on the next team, someone he knows only by face. They know nothing of each other's lives. They could have. They simply never asked.",
-  "spin.quote": "Written so that people who only played the game can read it. It's a place for those who want to know more. The game stands on its own without the novel.",
   "spin.dim": "Six episodes planned. We publish episode 1, see how it lands, then write the next.",
-  "spin.ep1.h3": "Episode 1: in preparation", "spin.ep1.p": "Dawn in the steam greenhouse. A stopped circulation pump and one filter that never came.",
-  "spin.ep2.h3": "And then", "spin.ep2.p": "Episodes follow one by one after the first. Release days are announced on X and by email.",
+  "spin.list.h2": "Episodes", "spin.ep1.n": "Episode 1", "spin.ep1.when": "Nov 2026", "spin.ep1.soon": "Episode 1 is in preparation. We'll let you know by email when it's up.",
+  "read.prev": "← Previous", "read.list": "Episodes", "read.next": "Next →",
+  "spin.ep1.h3": "In preparation",
+
 
 
 
@@ -171,10 +172,11 @@ ja: {
   "spin.premise.h2": "2396年、北太平洋の氷の上",
   "spin.p1": "歩く都市27区は、ひと月のあいだ果てしない平原を渡っています。下層の蒸気温室で働く若い整備工は、夜ごと地下室に降りて、足元から上ってくるかすかな鼓動を数字に書き留めます。何の鼓動かは分かりません。ただ、平原に入ってから少しずつはっきりしてきています。",
   "spin.p2": "その温室には子どもが三人いる当直の作業員がいて、隣の班には顔だけ知っている人がいます。互いの暮らしは知りません。知ることはできたのに、尋ねなかっただけです。",
-  "spin.quote": "ゲームだけをした方にも読めるように書きます。もっと深く知りたい方のための場所です。ゲームは小説がなくても、それだけで成り立ちます。",
   "spin.dim": "基本は六話。第1話を公開して反応を見てから、次の話を書きます。",
-  "spin.ep1.h3": "第1話 — 準備中", "spin.ep1.p": "蒸気温室の夜明け。止まった循環ポンプと、届かなかったフィルターひとつ。",
-  "spin.ep2.h3": "続き", "spin.ep2.p": "第1話のあと順に公開します。公開日は X とメールでお知らせします。",
+  "spin.list.h2": "話数", "spin.ep1.n": "第1話", "spin.ep1.when": "2026.11", "spin.ep1.soon": "第1話は準備中です。公開したらお知らせメールでお伝えします。",
+  "read.prev": "← 前の話", "read.list": "目次", "read.next": "次の話 →",
+  "spin.ep1.h3": "準備中",
+
 
 
 
@@ -266,10 +268,11 @@ zh: {
   "spin.premise.h2": "2396 年，北太平洋的冰面上",
   "spin.p1": "行走城市 27 区已经在无尽的平原上走了一个月。在下层蒸汽温室工作的年轻机修工，每晚下到地下室，把脚下传来的微弱搏动记成数字。他不知道那是什么的搏动。只知道进入平原之后，它越来越清晰。",
   "spin.p2": "那座温室里有一位带着三个孩子的值班工人，隔壁班组有一个只认得脸的人。彼此的生活一无所知。本来可以知道的，只是没有问过。",
-  "spin.quote": "写给只玩过游戏的人也能读。这是为想了解更多的人准备的地方。游戏没有小说也能独立成立。",
   "spin.dim": "基本六话。先发第 1 话，看反应再写下一话。",
-  "spin.ep1.h3": "第 1 话 — 准备中", "spin.ep1.p": "蒸汽温室的黎明。停转的循环泵，和一个没有送到的滤芯。",
-  "spin.ep2.h3": "接下来", "spin.ep2.p": "第 1 话之后依次发布。发布日会在 X 和邮件通知。",
+  "spin.list.h2": "章节", "spin.ep1.n": "第 1 话", "spin.ep1.when": "2026.11", "spin.ep1.soon": "第 1 话准备中。发布后我们会通过邮件通知。",
+  "read.prev": "← 上一话", "read.list": "目录", "read.next": "下一话 →",
+  "spin.ep1.h3": "准备中",
+
 
 
 

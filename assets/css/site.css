@@ -219,6 +219,21 @@ body.home .footer .wrap { justify-content: flex-start; max-width: none; padding:
 .board .body p { margin: 0 0 1em; }
 .board .body img { border-radius: 6px; margin: 8px 0 16px; }
 @media (max-width: 820px) { .board summary { grid-template-columns: 1fr; gap: 4px; } .board .body { padding-left: 10px; } }
+/* 게시판 행(링크형 · 스핀오프 회차) */
+.board .row { display: grid; grid-template-columns: 120px 1fr auto; gap: 20px; align-items: center; padding: 18px 10px; color: var(--ink); border-bottom: 1px solid rgba(52,59,70,.6); }
+.board .row:hover { background: rgba(52,59,70,.25); }
+/* 읽기 페이지(스핀오프) = 좁은 단 · 명조 · 넉넉한 행간 · 진행바 · 이전/다음 */
+body.reader { background: #0f1114; }
+.progress { position: fixed; top: 64px; left: 0; right: 0; height: 3px; background: rgba(52,59,70,.35); z-index: 9; }
+.progress span { display: block; height: 100%; width: 0; background: var(--amber); transition: width .1s linear; }
+.read { max-width: 680px; margin: 0 auto; padding: 120px 24px 80px; }
+.read-head { text-align: center; margin-bottom: 48px; }
+.read-head .ep { color: var(--amber); font-family: var(--font-en); letter-spacing: .2em; font-size: .85rem; margin-bottom: 10px; }
+.read-head h1 { font-family: "Noto Serif KR", serif; font-weight: 600; font-size: 2rem; margin-bottom: .3em; }
+.read-body { font-family: "Noto Serif KR", serif; font-size: 1.12rem; line-height: 2; color: var(--paper-ink); word-break: keep-all; text-wrap: pretty; }
+.read-body p { margin: 0 0 1.4em; }
+.read-nav { display: flex; justify-content: space-between; align-items: center; margin-top: 64px; padding-top: 24px; border-top: 1px solid rgba(52,59,70,.6); font-size: .95rem; }
+.read-nav .off { color: rgba(141,136,121,.45); }
 /* 데브로그 목록 · 연표 */
 .timeline { list-style: none; margin: 0; padding: 0; border-left: 2px solid var(--steel-hi); }
 .timeline li { position: relative; padding: 0 0 28px 28px; }

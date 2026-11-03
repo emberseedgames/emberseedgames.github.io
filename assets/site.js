@@ -92,6 +92,9 @@ document.addEventListener("DOMContentLoaded", () => {
   document.querySelectorAll(".drawer-nav .group-head").forEach(h => h.addEventListener("click", () => {
     const g = h.parentElement, o = g.classList.toggle("open"); h.setAttribute("aria-expanded", String(o));
   }));
+  // 읽기 진행바(스핀오프 읽기 페이지)
+  const bar = document.querySelector(".progress span");
+  if (bar) { const upd = () => { const h = document.documentElement; const d = h.scrollHeight - h.clientHeight; bar.style.width = (d > 0 ? Math.min(100, h.scrollTop / d * 100) : 0) + "%"; }; document.addEventListener("scroll", upd, { passive: true }); upd(); }
   // 현재 페이지 표시
   const here = location.pathname.split("/").pop() || "index.html";
   document.querySelectorAll(".drawer-nav a").forEach(a => { if (a.getAttribute("href") === here) a.classList.add("on"); });
