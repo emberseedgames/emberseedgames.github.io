@@ -201,6 +201,8 @@ body.home .footer .wrap { justify-content: flex-start; max-width: none; padding:
 
 /* 표(사양) */
 .spec { width: 100%; max-width: 640px; border-collapse: collapse; font-size: .97rem; }
+.wrap.release { text-align: center; }   /* 스팀 위젯이 생기기 전까지 가운데 · 그 뒤 = 표 왼쪽 · 위젯 오른쪽 */
+.wrap.release .spec { margin: 0 auto; text-align: left; }
 .spec th, .spec td { text-align: left; padding: 10px 12px; border-bottom: 1px solid rgba(52,59,70,.6); vertical-align: top; }
 .spec th { color: var(--ink-dim); font-weight: 500; width: 36%; white-space: nowrap; }
 
