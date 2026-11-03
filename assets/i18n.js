@@ -113,7 +113,7 @@ ja: {
   "team.m3.role": "シナリオライター", "team.m3.p": "サブシナリオ担当です。",
   "team.m4.role": "イラスト", "team.m4.p": "背景と人物のイラストを描いています。",
   "footer.copy": "© 2026 Emberseed. 韓国・天安.",
-  "btn.notify": "お知らせを受け取る", "btn.notify.news": "お知らせ登録",
+  "btn.notify": "お知らせ登録", "btn.notify.news": "お知らせ登録",
   "js.mail.subject": "STALVERON お知らせ登録", "js.mail.body": "このメールアドレスに STALVERON のお知らせを送ってください。",
   "js.fallback.p": "メール一通で十分です。件名は空のままで構いません。", "js.fallback.btn": "メールで登録", "js.iframe.title": "お知らせ登録",
 
