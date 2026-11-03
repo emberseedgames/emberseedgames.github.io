@@ -152,6 +152,8 @@ body.home .footer .wrap { justify-content: flex-start; max-width: none; padding:
 .cols-3 { display: grid; gap: 24px; grid-template-columns: repeat(3, 1fr); }
 .cols.story { max-width: 1480px; grid-template-columns: 3fr 2fr; gap: 56px; align-items: center; }   /* 그림 왼쪽·크게 · 글 오른쪽 · 틀도 넓게 */
 .cols.story .shot { width: 100%; height: auto; display: block; border-radius: 6px; box-shadow: 0 10px 30px rgba(0,0,0,.45); }
+.cols.story.flip { grid-template-columns: 2fr 3fr; }                 /* 글 왼쪽 · 그림 오른쪽 */
+.cols.story .shot.placeholder { aspect-ratio: 16 / 9; display: grid; place-items: center; background: var(--steel); border: 1px dashed var(--steel-hi); color: var(--ink-dim); font-size: .95rem; letter-spacing: .1em; }
 .prose { max-width: 720px; }
 .prose p, .banner .tag, .card p { word-break: keep-all; overflow-wrap: normal; text-wrap: pretty; }   /* 낱말 중간에서 안 끊는다(한국어) */
 .prose p { color: var(--ink); }
@@ -236,7 +238,8 @@ body.home .footer .wrap { justify-content: flex-start; max-width: none; padding:
 @media (max-width: 820px) {
   body { font-size: 16px; }
   h1 { font-size: 2rem; } h2 { font-size: 1.55rem; }
-  .cols, .cols-3, .cast, .cols.story { grid-template-columns: 1fr; }
+  .cols, .cols-3, .cast, .cols.story, .cols.story.flip { grid-template-columns: 1fr; }
+  .cols.story.flip .prose { order: 2; }
   .cast .who .pic { height: 300px; }
   .topbar .right { gap: 8px; }
   .lang-cur { padding: 5px 8px; font-size: .8rem; }

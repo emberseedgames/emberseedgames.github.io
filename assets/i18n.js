@@ -26,7 +26,6 @@ en: {
 
 
 
-
   "home.notify.p": "We'll email you when there's news.",
 
   // STALVERON
@@ -36,10 +35,17 @@ en: {
   "game.story.h2": "Walking cities, a fallen star",
   "game.story.p1": "Two hundred years after the catastrophe. To stay ahead of the winter storm that follows them, humanity rides giant legged cities, the Emberwalkers, across an endless sheet of ice. An Emberwalker's heart is the core of a ‘star’ that fell from the sky. The core of Elina's city, District 27, is cooling, and its legs are slowing down.",
   "game.story.p2": "Where they arrive in search of a new core, Elina comes face to face with a truth the world has hidden, and a past it has forgotten.",
-  "game.how.h2": "How it plays",
-  "game.c1.n": "01 · Design", "game.c1.h3": "Build the inside of the star", "game.c1.p": "Place facilities in the galleries, switch lights on and off, decide what to block and what to leave open. All before the expedition walks in.",
-  "game.c2.n": "02 · Watch", "game.c2.h3": "Once they're in, you only watch", "game.c2.p": "A team of four walks the paths you built. You can't control them. They make the calls; the results come back through the control-room screen and the radio.",
-  "game.c3.n": "03 · Dice", "game.c3.h3": "Every roll is visible", "game.c3.p": "Attack, evade, guard, skill, first aid, resolve. Six kinds of dice roll on screen. There is no hidden probability table.",
+
+
+
+  "game.play.h2": "Build the inside of the star, then watch",
+  "game.play.p1": "Place facilities in the galleries, switch lights on and off, decide what to block and what to leave open. All before the expedition walks in.",
+  "game.play.p2": "A team of four walks the paths you built. You can't control them. They make the calls; the results come back through the control-room screen and the radio.",
+  "game.play.p3": "Attack, evade, guard, skill, first aid, resolve. Six kinds of dice roll on screen. There is no hidden probability table.",
+  "game.shot.soon": "Screenshot coming soon",
+  "game.attune.h2": "Attunement",
+  "game.attune.p1": "A minigame of feeling for a signal inside the star. Line up aim and spread with four control arcs, and blue water closes in on the target. There are no written instructions.",
+  "game.attune.p2": "Rush, and red water rises. The only thing that brings it down is a single lamp for catching your breath. Which signal you reach for is up to you.",
   "game.chars.h2": "The people of District 27",
   "game.elina.h3": "Elina", "game.elina.p": "An engineer who has worked close to the core. She takes control of this star.",
   "game.mira.h3": "Mira", "game.mira.p": "Captain of the District 27 expedition. The one who goes in.",
@@ -123,7 +129,6 @@ ja: {
 
 
 
-
   "home.notify.p": "新しいお知らせがあればメールでお届けします。",
 
   // STALVERON
@@ -133,10 +138,17 @@ ja: {
   "game.story.h2": "歩く都市、落ちた星",
   "game.story.p1": "大災厄から二百年。人類は背後から迫る冬の嵐から逃れるため、脚の付いた巨大な都市エンバーウォーカーに乗り、果てしない氷の上を歩き続けています。エンバーウォーカーの心臓は、空から落ちてきた「星」の核。エリナの都市・27区の核は冷えつつあり、脚は少しずつ遅くなっています。",
   "game.story.p2": "新しい核を求めてたどり着いた場所で、エリナは世界が隠してきた真実と、忘れられた過去に向き合います。",
-  "game.how.h2": "こんなゲームです",
-  "game.c1.n": "01 · 設計", "game.c1.h3": "星の内側を造る", "game.c1.p": "回廊に設備を置き、灯りを点けたり消したり、どこを塞ぎどこを開けておくかを決めます。探査隊が入ってくる前に終えなければなりません。",
-  "game.c2.n": "02 · 観戦", "game.c2.h3": "入った後は見守るだけ", "game.c2.p": "四人の探査隊が、あなたの造った道を歩きます。直接操作はできません。判断は彼らがし、結果は管制室の画面と無線で返ってきます。",
-  "game.c3.n": "03 · サイコロ", "game.c3.h3": "すべての判定が見える", "game.c3.p": "攻撃・回避・防御・技能・応急・決心。六種類のサイコロが画面の上で転がります。隠された確率表はありません。",
+
+
+
+  "game.play.h2": "星の内側を造り、見守る",
+  "game.play.p1": "回廊に設備を置き、灯りを点けたり消したり、どこを塞ぎどこを開けておくかを決めます。探査隊が入ってくる前に終えなければなりません。",
+  "game.play.p2": "四人の探査隊が、あなたの造った道を歩きます。直接操作はできません。判断は彼らがし、結果は管制室の画面と無線で返ってきます。",
+  "game.play.p3": "攻撃・回避・防御・技能・応急・決心。六種類のサイコロが画面の上で転がります。隠された確率表はありません。",
+  "game.shot.soon": "スクリーンショット準備中",
+  "game.attune.h2": "感応",
+  "game.attune.p1": "星の中の信号を手探りで探すミニゲームです。四つの操作弧で照準と放射角を合わせると、青い水が目標へ向かって絞り込まれていきます。文字の案内はありません。",
+  "game.attune.p2": "急げば赤い水が満ちてきます。それを下げるのは、息を整える灯りひとつ。どの信号に手を伸ばすかは、あなたが選びます。",
   "game.chars.h2": "27区の人々",
   "game.elina.h3": "エリナ", "game.elina.p": "核の近くで働いてきた技術者。今回の星の管制を担う。",
   "game.mira.h3": "ミラ", "game.mira.p": "27区探査隊長。星の中へ入る側。",
@@ -220,7 +232,6 @@ zh: {
 
 
 
-
   "home.notify.p": "有新消息时，我们会通过邮件通知您。",
 
   // STALVERON
@@ -230,10 +241,17 @@ zh: {
   "game.story.h2": "行走的城市，坠落的星",
   "game.story.p1": "大灾变后两百年。为了躲开身后追来的冬季风暴，人类登上长着腿的巨大城市“余烬行者”，在无尽的冰原上前行。余烬行者的心脏，是一颗从天而降的“星”的核。艾琳娜所在的城市 27 区，核正在冷却，腿也越来越慢。",
   "game.story.p2": "在为寻找新核而抵达的地方，艾琳娜将直面这个世界隐藏的真相与被遗忘的过去。",
-  "game.how.h2": "这是一款这样的游戏",
-  "game.c1.n": "01 · 设计", "game.c1.h3": "建造星的内部", "game.c1.p": "在回廊里放置设施，开灯关灯，决定哪里封住、哪里留开。必须在探索队进来之前完成。",
-  "game.c2.n": "02 · 观战", "game.c2.h3": "进去之后只能看", "game.c2.p": "四人探索队走你建的路。你不能直接操控。判断由他们做，结果通过控制室画面和无线电传回来。",
-  "game.c3.n": "03 · 骰子", "game.c3.h3": "每次判定都看得见", "game.c3.p": "攻击、回避、防御、技能、急救、决心。六种骰子在画面上滚动。没有隐藏的概率表。",
+
+
+
+  "game.play.h2": "建造星的内部，然后观战",
+  "game.play.p1": "在回廊里放置设施，开灯关灯，决定哪里封住、哪里留开。必须在探索队进来之前完成。",
+  "game.play.p2": "四人探索队走你建的路。你不能直接操控。判断由他们做，结果通过控制室画面和无线电传回来。",
+  "game.play.p3": "攻击、回避、防御、技能、急救、决心。六种骰子在画面上滚动。没有隐藏的概率表。",
+  "game.shot.soon": "截图准备中",
+  "game.attune.h2": "感应",
+  "game.attune.p1": "在星内摸索信号的小游戏。用四条操作弧对准方向和张角，蓝色的水便会向目标收拢。没有文字提示。",
+  "game.attune.p2": "一旦着急，红色的水就会涨起。能让它退下的，只有一盏用来调整呼吸的灯。伸手去够哪个信号，由你决定。",
   "game.chars.h2": "27 区的人们",
   "game.elina.h3": "艾琳娜", "game.elina.p": "一直在核附近工作的技术员。负责这颗星的管制。",
   "game.mira.h3": "米拉", "game.mira.p": "27 区探索队长。走进星里的那一方。",
