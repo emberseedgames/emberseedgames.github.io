@@ -150,8 +150,9 @@ body.home .footer .wrap { justify-content: flex-start; max-width: none; padding:
 .section h2 { margin-bottom: .6em; }
 .cols { display: grid; gap: 40px; grid-template-columns: 1fr 1fr; align-items: start; }
 .cols-3 { display: grid; gap: 24px; grid-template-columns: repeat(3, 1fr); }
-.cols.story { grid-template-columns: 1.5fr 1fr; gap: 48px; align-items: center; }   /* 그림 왼쪽·크게 · 글 오른쪽 */
-.cols.story .figure img { width: 100%; height: auto; }
+.cols.story { max-width: 1480px; grid-template-columns: 3fr 2fr; gap: 56px; align-items: center; }   /* 그림 왼쪽·크게 · 글 오른쪽 · 틀도 넓게 */
+.cols.story .figure { width: 100%; }
+.cols.story .figure img { width: 100%; height: auto; display: block; }
 .prose { max-width: 720px; }
 .prose p { color: var(--ink); }
 .prose .quote { color: var(--paper-ink); border-left: 3px solid var(--amber-deep); padding: 4px 0 4px 18px; margin: 1.4em 0; font-size: 1.12rem; }
