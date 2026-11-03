@@ -30,7 +30,7 @@ en: {
 
 
   "home.notify.h2": "Stay in the loop",
-  "home.notify.p": "We'll email you when the demo goes public, the store page opens, or a spin-off episode is released.",
+  "home.notify.p": "We'll email you when there's news.",
 
   // STALVERON
   "game.title": "STALVERON — Emberseed",
@@ -98,7 +98,7 @@ en: {
   "contact.b2c.h3": "Player news is separate", "contact.b2c.p": "If you'd like demo, store and serial news, leave your email on the sign-up page.",
   "nav.notify": "Sign up for updates",
   "notify.title": "Sign up for updates — Emberseed", "notify.desc": "Get STALVERON demo, store page and spin-off serial news by email.",
-  "notify.h1": "Sign up for updates", "notify.tag": "We'll email you about the demo release, store page opening and spin-off episodes.",
+  "notify.h1": "Sign up for updates", "notify.tag": "We'll email you when there's news.",
   "contact.channels.h2": "Channels",
   "contact.k.mail": "Email", "contact.k.company": "Company", "contact.company.v": "Emberseed · Cheonan, South Korea",
   "contact.dim": "Streamer and tester demo-key requests, publishing and collaboration proposals: please email. We usually reply within a few days.",
@@ -132,7 +132,7 @@ ja: {
 
 
   "home.notify.h2": "お知らせを受け取る",
-  "home.notify.p": "デモ公開、ストアページ開設、スピンオフ連載のお知らせをメールでお届けします。",
+  "home.notify.p": "新しいお知らせがあればメールでお届けします。",
 
   // STALVERON
   "game.title": "STALVERON — Emberseed",
@@ -200,7 +200,7 @@ ja: {
   "contact.b2c.h3": "プレイヤー向けのお知らせは別です", "contact.b2c.p": "デモ・ストア・連載の知らせを受け取りたい方は、お知らせ登録ページでメールアドレスをお残しください。",
   "nav.notify": "お知らせ登録",
   "notify.title": "お知らせ登録 — Emberseed", "notify.desc": "STALVERON のデモ公開・ストアページ・スピンオフ連載の知らせをメールで受け取ります。",
-  "notify.h1": "お知らせ登録", "notify.tag": "デモ公開、ストアページ開設、スピンオフ連載のお知らせをメールでお届けします。",
+  "notify.h1": "お知らせ登録", "notify.tag": "新しいお知らせがあればメールでお届けします。",
   "contact.channels.h2": "チャンネル",
   "contact.k.mail": "メール", "contact.k.company": "会社", "contact.company.v": "Emberseed · 韓国・天安",
   "contact.dim": "配信者・テスター向けデモキーのお問い合わせ、パブリッシング・協業のご提案はメールでお願いします。通常、数日以内にお返事します。",
@@ -234,7 +234,7 @@ zh: {
 
 
   "home.notify.h2": "订阅消息",
-  "home.notify.p": "试玩版公开、商店页面上线、外传连载时，我们会发邮件通知。",
+  "home.notify.p": "有新消息时，我们会通过邮件通知您。",
 
   // STALVERON
   "game.title": "STALVERON — Emberseed",
@@ -302,7 +302,7 @@ zh: {
   "contact.b2c.h3": "玩家消息另行订阅", "contact.b2c.p": "想收到试玩版、商店和连载消息，请在订阅页面留下邮箱。",
   "nav.notify": "订阅消息",
   "notify.title": "订阅消息 — Emberseed", "notify.desc": "通过邮件接收 STALVERON 试玩版公开、商店页面和外传连载消息。",
-  "notify.h1": "订阅消息", "notify.tag": "试玩版公开、商店页面上线、外传连载时，我们会发邮件通知。",
+  "notify.h1": "订阅消息", "notify.tag": "有新消息时，我们会通过邮件通知您。",
   "contact.channels.h2": "渠道",
   "contact.k.mail": "邮件", "contact.k.company": "公司", "contact.company.v": "Emberseed · 韩国天安",
   "contact.dim": "主播·测试者的试玩码咨询，发行·合作提案请发邮件。通常几天内回复。",
