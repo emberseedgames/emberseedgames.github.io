@@ -113,7 +113,7 @@ body.home .footer .wrap { justify-content: flex-start; max-width: none; padding:
 .hero .stage .inner { position: absolute; left: 50%; top: 50%; transform: translate(-50%, -50%); padding: 0; width: max-content; z-index: 2; }
 .hero .char {
   position: absolute; left: -19px; bottom: -324px; height: 1512px; width: auto; z-index: 0;   /* = 1080 기준 140vh · 머리 꼭대기 ≈ 14% */
-  filter: brightness(.86) saturate(.85) contrast(.96);
+  filter: brightness(.86) saturate(.85) contrast(.96) drop-shadow(0 8px 26px rgba(0,0,0,.55));
   -webkit-mask-image: linear-gradient(to bottom, #000 64%, rgba(0,0,0,0) 79%);
   mask-image: linear-gradient(to bottom, #000 64%, rgba(0,0,0,0) 79%);
   pointer-events: none;
