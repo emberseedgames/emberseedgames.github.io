@@ -63,7 +63,7 @@ en: {
   "devlog.h1": "Devlog",
   "devlog.p1.body": "Coming November 7.",
   "devlog.soon": "Coming soon",
-"devlog.p1.h3": "Devlog #1: Dawn at the star-site",
+"devlog.p1.h3": "Hello. Nice to meet you.",
 
 
 
@@ -158,7 +158,7 @@ ja: {
   "devlog.h1": "開発日誌",
   "devlog.p1.body": "11月7日に公開します。",
   "devlog.soon": "近日公開",
-"devlog.p1.h3": "第1回 開発日誌 — 星の地の夜明け",
+"devlog.p1.h3": "こんにちは。はじめまして。",
 
 
 
@@ -253,7 +253,7 @@ zh: {
   "devlog.h1": "开发日志",
   "devlog.p1.body": "11 月 7 日发布。",
   "devlog.soon": "即将发布",
-"devlog.p1.h3": "第 1 篇开发日志 — 星之地的黎明",
+"devlog.p1.h3": "大家好，初次见面。",
 
 
 
